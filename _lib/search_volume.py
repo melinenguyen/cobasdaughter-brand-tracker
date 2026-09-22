@@ -103,18 +103,32 @@ def _safe_float(s):
 
 
 def sync():
-    """Scan both drop folders, merge everything found, write data/search_volume.json.
-    Also seeds from the real Amazon export already sitting in the performance repo,
-    if the user hasn't dropped one here yet (same data, just a running start)."""
+    """Scan both drop folders and MERGE onto whatever's already in
+    data/search_volume.json — never shrinks it. This matters because the
+    sibling-repo seed fallback below only exists on the local machine (the
+    CI runner doesn't check out marketing/performance), so a naive
+    regenerate-from-scratch would silently wipe real committed data on every
+    cloud run."""
     os.makedirs(AMZ_DIR, exist_ok=True)
     os.makedirs(GT_DIR, exist_ok=True)
 
-    amazon = {}
+    existing_path = os.path.join(ROOT, "data", "search_volume.json")
+    amazon, trends = {}, {}
+    if os.path.exists(existing_path):
+        existing = json.load(open(existing_path))
+        for row in existing.get("amazon_branded_search", []):
+            amazon[row["date"]] = row
+        for row in existing.get("google_trends", []):
+            trends[row["date"]] = row
+
     for p in sorted(glob.glob(os.path.join(AMZ_DIR, "*.csv"))):
         for row in parse_amazon_awareness_csv(p):
-            amazon[row["date"]] = row  # last file wins per date
+            amazon[row["date"]] = row  # dropped file wins per date over what's stored
 
     if not amazon:
+        # Local-machine-only convenience: on first run, seed from the real export
+        # that already sits in the sibling performance repo. Not available in CI
+        # (only this repo is checked out there) — harmless no-op if missing.
         seed_candidates = sorted(glob.glob(
             os.path.join(ROOT, "..", "performance", "input", "brand performance", "*", "Amazon Awareness Trends.csv")
         ))
@@ -125,7 +139,6 @@ def sync():
             print(f"  · seeded Amazon Branded Search from {len(seed_candidates)} existing export(s) "
                   f"in marketing/performance/input/ — drop your own into data/amazon_awareness/ to take over")
 
-    trends = {}
     for p in sorted(glob.glob(os.path.join(GT_DIR, "*.csv"))):
         for row in parse_google_trends_csv(p):
             trends[row["date"]] = row
@@ -137,7 +150,7 @@ def sync():
         "note": "Manually fed — see module docstring. Empty arrays mean no export has been dropped yet, not zero volume.",
     }
     os.makedirs(os.path.join(ROOT, "data"), exist_ok=True)
-    with open(os.path.join(ROOT, "data", "search_volume.json"), "w") as f:
+    with open(existing_path, "w") as f:
         json.dump(out, f, indent=1)
     print(f"  · search_volume.json: {len(out['amazon_branded_search'])} Amazon month(s), "
           f"{len(out['google_trends'])} Google Trends point(s)")
