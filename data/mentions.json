@@ -1,0 +1,411 @@
+{
+ "mentions": {
+  "seed:tiktok:https://www.tiktok.com/@cobasdaughter.mkt/video/7551631225450925325": {
+   "platform": "tiktok",
+   "id": "seed:tiktok:https://www.tiktok.com/@cobasdaughter.mkt/video/7551631225450925325",
+   "url": "https://www.tiktok.com/@cobasdaughter.mkt/video/7551631225450925325",
+   "author": "@cobasdaughter.mkt",
+   "caption": "Sunbath essentials — aloe / sunburn relief",
+   "ts": "2025-09-19T00:00:00Z",
+   "source": "seed/performance-baseline"
+  },
+  "seed:tiktok:https://www.tiktok.com/@cobasdaughter.shop/video/7535115263172250911": {
+   "platform": "tiktok",
+   "id": "seed:tiktok:https://www.tiktok.com/@cobasdaughter.shop/video/7535115263172250911",
+   "url": "https://www.tiktok.com/@cobasdaughter.shop/video/7535115263172250911",
+   "author": "@cobasdaughter.shop",
+   "caption": "AI-produced video for best-selling Aloe Gel",
+   "ts": "2025-08-05T00:00:00Z",
+   "source": "seed/performance-baseline"
+  },
+  "seed:tiktok:https://www.tiktok.com/@cobasdaughter/video/7443767197341617454": {
+   "platform": "tiktok",
+   "id": "seed:tiktok:https://www.tiktok.com/@cobasdaughter/video/7443767197341617454",
+   "url": "https://www.tiktok.com/@cobasdaughter/video/7443767197341617454",
+   "author": "@cobasdaughter",
+   "caption": "Hair Spray 2% Redensyl #cobasdaughter",
+   "ts": "2024-12-02T00:00:00Z",
+   "source": "seed/performance-baseline"
+  },
+  "seed:tiktok:https://www.tiktok.com/@jacklyndang/video/7493949798538579243": {
+   "platform": "tiktok",
+   "id": "seed:tiktok:https://www.tiktok.com/@jacklyndang/video/7493949798538579243",
+   "url": "https://www.tiktok.com/@jacklyndang/video/7493949798538579243",
+   "author": "@jacklyndang",
+   "caption": "'JACKLYNDANG for 20% off' #cobasdaughter #skintok #aapibrands — KOL/affiliate",
+   "ts": "2025-04-16T00:00:00Z",
+   "source": "seed/performance-baseline"
+  },
+  "rd:725d66b02b4b3ebc": {
+   "platform": "reddit",
+   "id": "rd:725d66b02b4b3ebc",
+   "url": "https://www.reddit.com/r/SkincareAddiction/comments/1wfxmlq/product_question_how_do_you_fit_aloe_gel_into/",
+   "author": "/u/StructureMuted2404",
+   "caption": "[Product Question] How do you fit aloe gel into your skincare routine?\n                 I’ve been using it as a lightweight moisturizer and was wondering how others fit aloe gels into their routines. Do you use one on its own or layer a regular moisturizer over it? Also, does anyone know where to order refills with shipping to the U.S.?   Just to clear up the label in the photo: I reused an empty exfoliator jar. The product inside is aloe gel.     &#32; submitted by &#32;   /u/StructureMuted2404   &#32; to &#32;   r/SkincareAddiction       [link]   &#32;   [comments]      ",
+   "ts": "2026-09-14T08:27:43+00:00",
+   "source": "reddit/search"
+  },
+  "rd:225e59d73c3f4d38": {
+   "platform": "reddit",
+   "id": "rd:225e59d73c3f4d38",
+   "url": "https://www.reddit.com/r/GiftIdeas/comments/1se3sp0/is_this_bag_okay_to_give_to_my_gf/",
+   "author": "/u/Nkt_31",
+   "caption": "Is this bag okay to give to my gf??\n   I just started dating a girl recently and I wanted to get her a small gift. I bought this bag online and thought it fits her style. I was like ok, cute and thoughtful. but when it arrived, I unboxed it’s actually a body care set inside?? like not just a bag. Is this still a good gift or is it weird?? hey girls, pls tell me your opinion!     &#32; submitted by &#32;   /u/Nkt_31   &#32; to &#32;   r/GiftIdeas       [link]   &#32;   [comments]  ",
+   "ts": "2026-04-06T16:29:44+00:00",
+   "source": "reddit/search"
+  },
+  "web:1e0548761422227b": {
+   "platform": "web",
+   "id": "web:1e0548761422227b",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03cnZFMENvLXNLYzYyQUR1MnZPa3lKN0loY08yUEc0dzhjQS1PLTE5aC1HYnNENjE1bmxlNUwyaGtOVEVhSGNvblhlS1I0bG9HZVN4WFFobTR0SndFNTYzVjRoZEZkUkhhc2hwSXozeGp4aDR2MmpOeEVIdw?oc=5",
+   "author": "Harper's Bazaar Vietnam",
+   "caption": "Behind CoBa’s Daughter: founder story of a Viet beauty brand - Harper's Bazaar Vietnam\n Behind CoBa’s Daughter: founder story of a Viet beauty brand &nbsp;&nbsp; Harper's Bazaar Vietnam ",
+   "ts": "2024-07-03T07:00:00+00:00",
+   "source": "web/google-news"
+  },
+  "tt:https://www.tiktok.com/@createdbymeagan/video/7681467399643729182": {
+   "platform": "tiktok",
+   "id": "tt:https://www.tiktok.com/@createdbymeagan/video/7681467399643729182",
+   "url": "https://www.tiktok.com/@createdbymeagan/video/7681467399643729182",
+   "author": "createdbymeagan",
+   "caption": "If you love the smell of coffee beans & the feel of silky smooth skin this body scrub is for you 🤎🧸☕️☁️ @CoBa's Daughter \n\n#bodyscrub #selfcareroutine #coffeescent #cobasdaughter #christmasgifts  ",
+   "ts": "2026-09-04T00:16:54.000Z",
+   "source": "tt/hashtag",
+   "engagement": {
+    "views": 180,
+    "likes": 14,
+    "comments": 9,
+    "shares": 3
+   }
+  },
+  "tt:https://www.tiktok.com/@cosmetics_fever/video/7666517470722805006": {
+   "platform": "tiktok",
+   "id": "tt:https://www.tiktok.com/@cosmetics_fever/video/7666517470722805006",
+   "url": "https://www.tiktok.com/@cosmetics_fever/video/7666517470722805006",
+   "author": "cosmetics_fever",
+   "caption": "Your sugar scrub could never 🤎 This coffee scrub has been my go-to for smooth legs and no more strawberry skin 🍓\n@CoBa's Daughter 🤎\n\n#bodyscrub #coffeescrub #strawberrylegs #cobasdaughtercoffeescrub #cobasdaughter ",
+   "ts": "2026-07-25T17:23:49.000Z",
+   "source": "tt/hashtag",
+   "engagement": {
+    "views": 1367,
+    "likes": 18,
+    "comments": 2,
+    "shares": 5
+   }
+  },
+  "tt:https://www.tiktok.com/@olha.ugc.creator/video/7475917696564055326": {
+   "platform": "tiktok",
+   "id": "tt:https://www.tiktok.com/@olha.ugc.creator/video/7475917696564055326",
+   "url": "https://www.tiktok.com/@olha.ugc.creator/video/7475917696564055326",
+   "author": "olha.ugc.creator",
+   "caption": "SCRUB @CoBa's Daughter ☕️\n\n•Exfoliating Body 100% Robusta Coffee - This luxurious matcha | coffee | shea butter exfoliating scrub gently removes product buildup from body while softening and balancing your skin’s moisture level. Deep moisturising\n\n• Deep moisturizing - Give your body an instant level-up with our special exfoliating formula. Matcha is known for its antioxidant and soothing properties, while Shea Butter is rich in moisture. This sophisticated blend deeply cleanses pores, prevents acne, and allow your skin to better absorp other skincare products.\n\n• Awakening aromatic experience: Induge yourself with an awakenening of the tropical Vietnamese coffee smell and comforting aroma of matcha while rejuvenating your body at any moment of the day.\n\n🛒Get a 20% discount on your order with my promo code:http://cobasdaughter.com/OLHAMENKIVDEAL\n\n#cobasdaughter #vegan #\ncobasdaughterbodycare #cobasdaughtercoffeescrub ",
+   "ts": "2025-02-27T02:19:17.000Z",
+   "source": "tt/hashtag",
+   "engagement": {
+    "views": 1170,
+    "likes": 23,
+    "comments": 1,
+    "shares": 6
+   }
+  },
+  "tt:https://www.tiktok.com/@iceayyy/video/7681471399608732941": {
+   "platform": "tiktok",
+   "id": "tt:https://www.tiktok.com/@iceayyy/video/7681471399608732941",
+   "url": "https://www.tiktok.com/@iceayyy/video/7681471399608732941",
+   "author": "iceayyy",
+   "caption": "I’ve been loving this scrub from @CoBa's Daughter @CoBa's Daughter US 💖\n\nClick the link in my bio to purchase on Amazon✨ #cobasdaughter #skintok #skincare ",
+   "ts": "2026-09-04T00:32:27.000Z",
+   "source": "tt/hashtag",
+   "engagement": {
+    "views": 288,
+    "likes": 24,
+    "comments": 3,
+    "shares": 3
+   }
+  },
+  "tt:https://www.tiktok.com/@ariellesilv/video/7665352131469151501": {
+   "platform": "tiktok",
+   "id": "tt:https://www.tiktok.com/@ariellesilv/video/7665352131469151501",
+   "url": "https://www.tiktok.com/@ariellesilv/video/7665352131469151501",
+   "author": "ariellesilv",
+   "caption": "@CoBa's Daughter coffee scrub exfoliater is a must for this summer 🧖‍♀️☕️ \n\n#cobasdaughter #ugccreator #selfcareroutine #summermusthaves #selfcaretiktok ",
+   "ts": "2026-07-22T14:01:50.000Z",
+   "source": "tt/hashtag",
+   "engagement": {
+    "views": 972,
+    "likes": 35,
+    "comments": 11,
+    "shares": 5
+   }
+  },
+  "tt:https://www.tiktok.com/@missmarissaaa/video/7605012879040892174": {
+   "platform": "tiktok",
+   "id": "tt:https://www.tiktok.com/@missmarissaaa/video/7605012879040892174",
+   "url": "https://www.tiktok.com/@missmarissaaa/video/7605012879040892174",
+   "author": "missmarissaaa",
+   "caption": "Using a coffee ☕️ scrub under your arms can help with brightening & I’ll never go back😭\n\n#cobasdaughter #coffeescrub #skincare #cobasdaughtercoffeescrub #bodycare ",
+   "ts": "2026-02-09T23:34:32.000Z",
+   "source": "tt/hashtag",
+   "engagement": {
+    "views": 20800,
+    "likes": 114,
+    "comments": 1,
+    "shares": 25
+   }
+  },
+  "tt:https://www.tiktok.com/@beyondbritt/video/7685623578976390413": {
+   "platform": "tiktok",
+   "id": "tt:https://www.tiktok.com/@beyondbritt/video/7685623578976390413",
+   "url": "https://www.tiktok.com/@beyondbritt/video/7685623578976390413",
+   "author": "beyondbritt",
+   "caption": "Coffee bean spa day? @CoBa's Daughter #coffeebodyscrub #cobasdaughter #exfoliation #sheabutter #hyperpigmentation ",
+   "ts": "2026-09-15T05:04:57.000Z",
+   "source": "tt/hashtag",
+   "engagement": {
+    "views": 377,
+    "likes": 16,
+    "comments": 6,
+    "shares": 3
+   }
+  },
+  "tt:https://www.tiktok.com/@cobasdaughter.official/video/7647607027568479518": {
+   "platform": "tiktok",
+   "id": "tt:https://www.tiktok.com/@cobasdaughter.official/video/7647607027568479518",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7647607027568479518",
+   "author": "cobasdaughter.official",
+   "caption": "Would you join our hood? 👯‍♀️\n\n#cobasdaughter #daughterhood ",
+   "ts": "2026-06-04T18:21:29.000Z",
+   "source": "tt/hashtag",
+   "engagement": {
+    "views": 113,
+    "likes": 5,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  "ig:https://www.instagram.com/p/Dde2nb6Iuzi/": {
+   "platform": "instagram",
+   "id": "ig:https://www.instagram.com/p/Dde2nb6Iuzi/",
+   "url": "https://www.instagram.com/p/Dde2nb6Iuzi/",
+   "author": "kelsey_brichacek",
+   "caption": "My fall riding routine has never been fresher with @cobasdaughter 🐴🧼 \n\nUse code KELSEY15 for 15% off your purchase \n\n#cobasdaughterpartner #cobasdaughter",
+   "ts": "2026-09-19T20:20:46.000Z",
+   "source": "ig-apify/tagged",
+   "engagement": {
+    "views": null,
+    "likes": 60,
+    "comments": 25
+   }
+  },
+  "ig:https://www.instagram.com/p/DdcX_y3y7l-/": {
+   "platform": "instagram",
+   "id": "ig:https://www.instagram.com/p/DdcX_y3y7l-/",
+   "url": "https://www.instagram.com/p/DdcX_y3y7l-/",
+   "author": "gray.clink",
+   "caption": "As equestrian athletes, recovery doesn’t only happen in the gym or after a hard workout. It starts with the simple rituals we build into our everyday barn routine.✨ \n\nAfter the dust, sweat, sun, and wind, I’ve been reaching for @cobasdaughter as part of my post-ride reset. \n\nTheir simple 3-step ritual cleanses, exfoliates, and hydrates with ingredients sourced directly from Vietnam, including Robusta coffee and aloe. \n\nIt feels like a small thing, but taking a few minutes to care for your skin after the barn is part of taking care of the athlete, too. \n\nSimple rituals and better recovery to get back in the saddle. \n\nUse code GRAY15 for 15% OFF your order. \n\n#CoBasDaughterPartner #cobasdaughter \n\n#Equestrian #EquestrianLifestyle #PostRideRoutine",
+   "ts": "2026-09-18T21:14:49.000Z",
+   "source": "ig-apify/tagged",
+   "engagement": {
+    "views": null,
+    "likes": 67,
+    "comments": 25
+   }
+  },
+  "ig:https://www.instagram.com/p/DdcC3ZIxNN0/": {
+   "platform": "instagram",
+   "id": "ig:https://www.instagram.com/p/DdcC3ZIxNN0/",
+   "url": "https://www.instagram.com/p/DdcC3ZIxNN0/",
+   "author": "bonschro",
+   "caption": "It’s almost GO TIME!!! All the ladies are about to arrive and they’re in for some treats this weekend 😏😏\n\n🛍️ Goodie bags queen tap in please…\nI can’t be the only one that LIVES FOR THIS SHI\n\nLETS KICK THIS WEEKEND OFF!!!!",
+   "ts": "2026-09-18T18:17:51.000Z",
+   "source": "ig-apify/tagged",
+   "engagement": {
+    "views": null,
+    "likes": 71,
+    "comments": 26
+   }
+  },
+  "ig:https://www.instagram.com/p/DdZG2Fsx0k7/": {
+   "platform": "instagram",
+   "id": "ig:https://www.instagram.com/p/DdZG2Fsx0k7/",
+   "url": "https://www.instagram.com/p/DdZG2Fsx0k7/",
+   "author": "mia_katharine",
+   "caption": "Cobas daughter draft 😝😝\nStill loving them even away at college!!\n@cobasdaughter \n\nUse code mia_katharine at checkout!!\n\n#ad #brandpartner #skincare #cobasdaughterpartner #cobasdaughter",
+   "ts": "2026-09-17T14:46:54.000Z",
+   "source": "ig-apify/tagged",
+   "engagement": {
+    "views": null,
+    "likes": -1,
+    "comments": 5
+   }
+  },
+  "ig:https://www.instagram.com/p/DdZFjAzt679/": {
+   "platform": "instagram",
+   "id": "ig:https://www.instagram.com/p/DdZFjAzt679/",
+   "url": "https://www.instagram.com/p/DdZFjAzt679/",
+   "author": "annie2miami",
+   "caption": "🎁 RAFFLE REVEAL! 🎁\n\nOne lucky guest at Zumba® con Cafecito is going home with a HALIO Red Light Therapy Mask! ✨❤️\n\nHALIO has generously sponsored this amazing giveaway for our September 27th event — and the best part?\n\n🎟️ Purchase your event ticket and you’re AUTOMATICALLY entered into the raffle!\n\nNo extra entry. No extra purchase. Just come ready to MOVE • SIP • CONNECT… and you might leave with a brand-new HALIO mask! 😍\n\n📅 September 27\n☕ Zumba® con Cafecito\n🎁 HALIO Red Light Therapy Mask Giveaway\n\nYour ticket = your raffle entry.\nWho’s taking this baby home?! 👀🔥\n\n@cityzerostudio \n@haliosonic \n@cobasdaughter",
+   "ts": "2026-09-17T14:36:40.000Z",
+   "source": "ig-apify/tagged",
+   "engagement": {
+    "views": null,
+    "likes": 45,
+    "comments": 5
+   }
+  },
+  "ig:https://www.instagram.com/p/DdXT1WwBjt1/": {
+   "platform": "instagram",
+   "id": "ig:https://www.instagram.com/p/DdXT1WwBjt1/",
+   "url": "https://www.instagram.com/p/DdXT1WwBjt1/",
+   "author": "michellerrose",
+   "caption": "7 hours at the barn catering to two horses definitely warrants a special post barn routine 🙌🏼 @cobasdaughter \nuse “MICHELLE15” for 15% off!\n.\n.\n#horsegirl #equestrianstyle #horsegirlproblems #equestrianlife #horseriding",
+   "ts": "2026-09-16T22:00:05.000Z",
+   "source": "ig-apify/tagged",
+   "engagement": {
+    "views": null,
+    "likes": 123,
+    "comments": 6
+   }
+  },
+  "ig:https://www.instagram.com/p/DdXj4izM7Zl/": {
+   "platform": "instagram",
+   "id": "ig:https://www.instagram.com/p/DdXj4izM7Zl/",
+   "url": "https://www.instagram.com/p/DdXj4izM7Zl/",
+   "author": "itsabuckinggoodlife",
+   "caption": "My tried and true post barn ritual to get clean and soft after hours of dust and sun \n\nRecently took this aloe to the beach and it SAVED my skin after long days in the sun! \n\nLooking for a luxurious post barn ritual? Use code “itsabuckinggoodlife” for 15% off your next order! #equestrianlifestyle #beginnerequestrian #adultammy #cobasdaughterpartner #cobasdaughter",
+   "ts": "2026-09-17T00:23:12.000Z",
+   "source": "ig-apify/tagged",
+   "engagement": {
+    "views": null,
+    "likes": 77,
+    "comments": 15
+   }
+  },
+  "ig:https://www.instagram.com/p/DdRm_Ldv30F/": {
+   "platform": "instagram",
+   "id": "ig:https://www.instagram.com/p/DdRm_Ldv30F/",
+   "url": "https://www.instagram.com/p/DdRm_Ldv30F/",
+   "author": "morgan.n.wright",
+   "caption": "From the barn to my shower routine 🤎🐎 I’m so excited to partner with CoBa’s Daughter, a Vietnamese heritage luxury body-care brand created for women who are always on the move. Made with Robusta coffee sourced from Vietnam’s Central Highlands and 99% pure aloe vera, their products are designed to help address the sun, wind, dust and post-ride buildup that come with equestrian life. Because riders deserve body care made with them in mind. Discount link in bio✨ #cobasdaughterpartner #cobasdaughter #EquestrianSkincare  #HorseGirl #LuxuryBodyCare",
+   "ts": "2026-09-14T16:56:39.000Z",
+   "source": "ig-apify/tagged",
+   "engagement": {
+    "views": null,
+    "likes": -1,
+    "comments": 21
+   }
+  },
+  "ig:https://www.instagram.com/p/DdfZpvvj5MO/": {
+   "platform": "instagram",
+   "id": "ig:https://www.instagram.com/p/DdfZpvvj5MO/",
+   "url": "https://www.instagram.com/p/DdfZpvvj5MO/",
+   "author": "cobasdaughter",
+   "caption": "It’s not just about making your skin feel smoother. A good body scrub helps lift away dead skin cells and buildup, leaving your skin feeling fresh and better prepared to absorb the body care that follows. \n\n#cobasdaughter",
+   "ts": "2026-09-20T01:25:44.000Z",
+   "source": "ig-apify/hashtag",
+   "engagement": {
+    "views": null,
+    "likes": -1,
+    "comments": 31
+   }
+  },
+  "ig:https://www.instagram.com/p/DdQ_4w_CGxA/": {
+   "platform": "instagram",
+   "id": "ig:https://www.instagram.com/p/DdQ_4w_CGxA/",
+   "url": "https://www.instagram.com/p/DdQ_4w_CGxA/",
+   "author": "eloquencesss",
+   "caption": "a little bit of skincare, flowers, coffee, books & slow summer days 🍨 featuring some new favorites from @cobasdaughter you can also use my code DIANA15 for 15% off 🥹\n\n#cobasdaughter",
+   "ts": "2026-09-14T11:11:14.000Z",
+   "source": "ig-apify/hashtag",
+   "engagement": {
+    "views": null,
+    "likes": -1,
+    "comments": 1
+   }
+  },
+  "ig:https://www.instagram.com/p/DdMr5EBD9tD/": {
+   "platform": "instagram",
+   "id": "ig:https://www.instagram.com/p/DdMr5EBD9tD/",
+   "url": "https://www.instagram.com/p/DdMr5EBD9tD/",
+   "author": "cobasdaughter",
+   "caption": "Wrapping up a wonderful day at Glossy Pop NYC yesterday. 🤍\n\nEverything about this event was wonderful. Our team had the chance to connect with so many amazing creators, meet new people, and connect with fellow brands along the way.\n\nBut there was one little story about our gifts that we didn’t quite expect 👀\n\nIf you were at Glossy Pop NYC and received our Mini Gift Set, we’d be so grateful for a little love. We’d love to hear what you think, and if you share your experience, don’t forget to tag @cobasdaughter.\n\nAnd of course, thank you Glossy for such a wonderful event and for having CoBa’s Daughter with you! \n\n#glossypopnyc #glossypopnyc2026 #glossyco #cobasdaughter",
+   "ts": "2026-09-12T18:59:32.000Z",
+   "source": "ig-apify/hashtag",
+   "engagement": {
+    "views": null,
+    "likes": 33,
+    "comments": 18
+   }
+  },
+  "ig:https://www.instagram.com/p/DdHdHUmmSWk/": {
+   "platform": "instagram",
+   "id": "ig:https://www.instagram.com/p/DdHdHUmmSWk/",
+   "url": "https://www.instagram.com/p/DdHdHUmmSWk/",
+   "author": "cobasdaughter",
+   "caption": "Behind The Name: CoBa’s Daughter\n\nIn Vietnamese culture, Cô Ba is an intimate name for the second daughter in a family. But more than a name, Cô Ba represents a woman everyone recognizes: graceful, resourceful, discerning, and confident in what she wants.\n\nWe set out to build a Daughterhood for women who embody that spirit. Women shaped by discipline, raised with confidence, and grounded in the path they choose for themselves. They live with intention, hold themselves to their own standards, and continue to shape who they are becoming.\n\nCoBa’s Daughter is the next chapter of this legacy. She inherits timeless values of resilience, authenticity, and grace, yet tells her story in her own voice. \n\n#cobasdaughter",
+   "ts": "2026-09-10T18:14:13.000Z",
+   "source": "ig-apify/hashtag",
+   "engagement": {
+    "views": null,
+    "likes": -1,
+    "comments": 36
+   }
+  },
+  "ig:https://www.instagram.com/p/DdHcUuhmZB6/": {
+   "platform": "instagram",
+   "id": "ig:https://www.instagram.com/p/DdHcUuhmZB6/",
+   "url": "https://www.instagram.com/p/DdHcUuhmZB6/",
+   "author": "cobasdaughter",
+   "caption": "Our Product Philosophy: Low Maintenance Luxury\n\nRooted in Vietnamese heritage, CoBa’s Daughter brings timeless botanical rituals into modern everyday care.\n\nFrom aromatic 3-in-1 soaps and Vietnamese Robusta coffee scrub to soothing aloe and thoughtfully curated bodycare sets, each ritual is inspired by the ingredients, landscapes, and traditions of Vietnam.\n\nMade to be lived with, shared, and savored.\nA little piece of Vietnam, woven into your everyday ritual.\n\n#cobasdaughter",
+   "ts": "2026-09-10T18:07:18.000Z",
+   "source": "ig-apify/hashtag",
+   "engagement": {
+    "views": null,
+    "likes": -1,
+    "comments": 31
+   }
+  },
+  "ig:https://www.instagram.com/p/DdHbT2emo8Q/": {
+   "platform": "instagram",
+   "id": "ig:https://www.instagram.com/p/DdHbT2emo8Q/",
+   "url": "https://www.instagram.com/p/DdHbT2emo8Q/",
+   "author": "cobasdaughter",
+   "caption": "Meet Our Founder: Sao Lonsdale\n\nBorn from Vietnamese roots and shaped by a modern perspective, Sao Lonsdale created CoBa’s Daughter to bring the beauty of local ingredients into everyday rituals. \n\nFrom Vietnamese coffee and aloe to the scents that carry childhood memories, every detail is designed to make the ordinary feel a little more intentional.\n\n#cobasdaughter",
+   "ts": "2026-09-10T17:58:27.000Z",
+   "source": "ig-apify/hashtag",
+   "engagement": {
+    "views": null,
+    "likes": -1,
+    "comments": 34
+   }
+  },
+  "ig:https://www.instagram.com/p/DdFrUVQGv6X/": {
+   "platform": "instagram",
+   "id": "ig:https://www.instagram.com/p/DdFrUVQGv6X/",
+   "url": "https://www.instagram.com/p/DdFrUVQGv6X/",
+   "author": "cobasdaughter",
+   "caption": "When the seasons change, so does what your skin needs. Give it the hydration and care it deserve. More care doesn’t have to mean more steps, one aloe gel can keep your routine simple.\n\n#cobasdaughter #aloeveragel",
+   "ts": "2026-09-10T01:39:51.000Z",
+   "source": "ig-apify/hashtag",
+   "engagement": {
+    "views": null,
+    "likes": -1,
+    "comments": 22
+   }
+  },
+  "ig:https://www.instagram.com/p/DdAdPUqlIGm/": {
+   "platform": "instagram",
+   "id": "ig:https://www.instagram.com/p/DdAdPUqlIGm/",
+   "url": "https://www.instagram.com/p/DdAdPUqlIGm/",
+   "author": "marjana.creates",
+   "caption": "my little fall body care ritual with warming coffee ☕️ and refreshing aloe 🍃\n @cobasdaughter #cobasdaughter \n.\n.\n.\nugc content creator, usa content creator, los angeles content creator, beauty ugc, skincare ugc, bodycare ugc, aesthetic carousels, bodycare routine, bodycare rituals",
+   "ts": "2026-09-08T01:00:01.000Z",
+   "source": "ig-apify/hashtag",
+   "engagement": {
+    "views": null,
+    "likes": 95,
+    "comments": 43
+   }
+  }
+ }
+}

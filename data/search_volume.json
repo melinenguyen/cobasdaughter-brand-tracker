@@ -1,0 +1,91 @@
+{
+ "generated_utc": "2026-09-22T09:15:44.770778Z",
+ "amazon_branded_search": [
+  {
+   "date": "2025-06-30",
+   "awareness": 38428.0,
+   "consideration": 9087.0,
+   "branded_search": 62.0,
+   "branded_search_ratio": 0.0016
+  },
+  {
+   "date": "2025-07-31",
+   "awareness": 46193.0,
+   "consideration": 7348.0,
+   "branded_search": 53.0,
+   "branded_search_ratio": 0.0011
+  },
+  {
+   "date": "2025-08-31",
+   "awareness": 21998.0,
+   "consideration": 6016.0,
+   "branded_search": 23.0,
+   "branded_search_ratio": 0.001
+  },
+  {
+   "date": "2025-09-30",
+   "awareness": 13267.0,
+   "consideration": 7122.0,
+   "branded_search": 65.0,
+   "branded_search_ratio": 0.0049
+  },
+  {
+   "date": "2025-10-31",
+   "awareness": 1600.0,
+   "consideration": 1259.0,
+   "branded_search": 47.0,
+   "branded_search_ratio": 0.0294
+  },
+  {
+   "date": "2025-11-30",
+   "awareness": 6543.0,
+   "consideration": 13735.0,
+   "branded_search": 100.0,
+   "branded_search_ratio": 0.015300000000000001
+  },
+  {
+   "date": "2025-12-31",
+   "awareness": 44567.0,
+   "consideration": 21855.0,
+   "branded_search": 249.0,
+   "branded_search_ratio": 0.005600000000000001
+  },
+  {
+   "date": "2026-01-31",
+   "awareness": 24402.0,
+   "consideration": 7280.0,
+   "branded_search": 139.0,
+   "branded_search_ratio": 0.005699999999999999
+  },
+  {
+   "date": "2026-02-28",
+   "awareness": 4362.0,
+   "consideration": 5370.0,
+   "branded_search": 112.0,
+   "branded_search_ratio": 0.025699999999999997
+  },
+  {
+   "date": "2026-03-31",
+   "awareness": 5052.0,
+   "consideration": 5081.0,
+   "branded_search": 128.0,
+   "branded_search_ratio": 0.0253
+  },
+  {
+   "date": "2026-04-30",
+   "awareness": 4697.0,
+   "consideration": 7190.0,
+   "branded_search": 104.0,
+   "branded_search_ratio": 0.022099999999999998
+  },
+  {
+   "date": "2026-05-31",
+   "awareness": 277345.0,
+   "consideration": 30022.0,
+   "branded_search": 263.0,
+   "branded_search_ratio": 0.0009
+  }
+ ],
+ "google_trends": [],
+ "note": "Manually fed \u2014 see module docstring. Empty arrays mean no export has been dropped yet, not zero volume."
+}

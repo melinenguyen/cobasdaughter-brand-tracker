@@ -1,0 +1,3 @@
+# Only stdlib is actually used (urllib, csv, json, xml.etree) — no external
+# packages required to run fetch_mentions.py / search_volume.py / build_dashboard.py.
+# Listed for clarity / future use only.
