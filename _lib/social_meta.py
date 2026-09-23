@@ -8,14 +8,24 @@ Endpoints reused as proven in marketing/performance/_system/mention_alert.py:
   /{ig-user-id}/tags        — posts that @-tagged the brand account
   ig_hashtag_search + /recent_media — the #cobasdaughter hashtag feed
 
-Needs a Meta access token + the IG Business account's numeric user id.
-See marketing/performance/_system/META_SETUP.md for how the token was
-originally generated (Graph API Explorer, instagram_basic + pages_show_list +
-pages_read_engagement permissions).
+Needs a Meta access token + the IG Business account's numeric user id, with
+scopes instagram_basic + instagram_manage_comments + pages_show_list +
+pages_read_engagement (instagram_manage_comments is required specifically for
+/tags — a token without it gets HTTP 400 "Application does not have
+permission for this action"). See marketing/performance/_system/META_SETUP.md
+for how the token is generated (Graph API Explorer).
 
-Known limit (Meta platform behavior, not a bug here): the hashtag /recent_media
-edge does not return the poster's username — only /tags (posts that tagged us
-directly) does. Both still give exact timestamps and engagement counts.
+Known limits (Meta platform behavior, verified against the real API, not bugs
+in this code):
+  - The hashtag /recent_media edge does not return the poster's username —
+    only /tags (posts that tagged us directly) does. Both still give exact
+    timestamps and engagement counts.
+  - /tags with the full field set (caption + like_count + comments_count etc.)
+    returns HTTP 500 "Please reduce the amount of data you're asking for"
+    above limit=15, even though the identical request at limit=15 succeeds.
+    Reproduced consistently (not transient) on 2026-09-23. Kept at TAGS_LIMIT
+    below rather than trimming fields, since fields are cheap and frequency
+    (daily) means 15 is plenty to catch everything since the last run.
 """
 import os, re, json, urllib.request, urllib.parse
 from datetime import datetime, timezone
@@ -26,6 +36,7 @@ ROOT = os.path.dirname(HERE)
 GRAPH = "https://graph.facebook.com/v21.0"
 HASHTAGS_TO_POLL = ["cobasdaughter"]
 IG_RESULTS = int(os.environ.get("BST_IG_RESULTS", "25"))
+TAGS_LIMIT = int(os.environ.get("BST_IG_TAGS_LIMIT", "15"))  # see docstring — /tags 500s above ~15-20
 
 # Known account id (not secret — just an id). Overridable via env/.meta_env.
 DEFAULT_IG_USER_ID = "17841465909445061"
@@ -56,6 +67,10 @@ def _iso(ts):
     if not ts:
         return None
     s = str(ts).replace("Z", "+00:00")
+    # Meta returns offsets as "+0000" (no colon) — datetime.fromisoformat only
+    # accepts that form on Python 3.11+; insert the colon so 3.9/3.10 parse it too.
+    if re.search(r"[+-]\d{4}$", s):
+        s = s[:-2] + ":" + s[-2:]
     try:
         d = datetime.fromisoformat(s)
         return (d if d.tzinfo else d.replace(tzinfo=timezone.utc)).isoformat()
@@ -72,7 +87,7 @@ def fetch_instagram():
     fields = "id,permalink,caption,media_type,timestamp,username,like_count,comments_count"
 
     try:
-        url = f"{GRAPH}/{uid}/tags?fields={fields}&limit={IG_RESULTS}&access_token={tok}"
+        url = f"{GRAPH}/{uid}/tags?fields={fields}&limit={TAGS_LIMIT}&access_token={tok}"
         for it in _get(url).get("data", []):
             permalink = it.get("permalink")
             if not permalink:

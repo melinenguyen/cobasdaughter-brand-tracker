@@ -1,4 +1,5 @@
 _system/.apify_env
+_system/.meta_env
 _system/.github_env
 _system/.gate_password
 data/_cache/
