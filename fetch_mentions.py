@@ -4,8 +4,12 @@ Daily fetch: pulls every mention source, merges into the persistent history
 data/mentions.json (deduped by id, never overwritten once seen — a source
 resurfacing an old post just confirms a date we already have).
 
-  python3 fetch_mentions.py            # free sources + TikTok/IG (Apify)
-  python3 fetch_mentions.py --free-only   # skip Apify (no cost)
+Instagram uses the official Meta Graph API (free, precise — see social_meta.py).
+TikTok still uses Apify (social_apify.py) — TikTok's official developer API has
+no equivalent for third-party/earned-mention search at any standard tier.
+
+  python3 fetch_mentions.py               # free sources + official IG + TikTok (Apify)
+  python3 fetch_mentions.py --no-tiktok   # skip the one remaining paid source
 """
 import os, sys, json, glob
 from datetime import datetime
@@ -14,6 +18,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, os.path.join(HERE, "_lib"))
 
 import mentions_free  # noqa: E402
+import social_meta     # noqa: E402
 import social_apify    # noqa: E402
 
 DATA = os.path.join(HERE, "data")
@@ -75,7 +80,7 @@ def merge(store, records):
 
 
 def main():
-    free_only = "--free-only" in sys.argv
+    skip_tiktok = "--no-tiktok" in sys.argv or "--free-only" in sys.argv  # --free-only kept as an alias
     store = load_store()
 
     seeded = seed_from_baseline(store)
@@ -86,11 +91,14 @@ def main():
     print("Reddit + web/news (free)...")
     total_new += merge(store, mentions_free.fetch_all_free())
 
-    if not free_only:
-        print("TikTok + Instagram (Apify)...")
-        total_new += merge(store, social_apify.fetch_all_social())
+    print("Instagram (official Meta Graph API)...")
+    total_new += merge(store, social_meta.fetch_instagram())
+
+    if not skip_tiktok:
+        print("TikTok (Apify — no official alternative for earned mentions)...")
+        total_new += merge(store, social_apify.fetch_tiktok())
     else:
-        print("  · --free-only: skipping TikTok/Instagram")
+        print("  · --no-tiktok: skipping TikTok")
 
     save_store(store)
     print(f"\n{total_new} new mention(s) added. Store now has {len(store['mentions'])} total.")

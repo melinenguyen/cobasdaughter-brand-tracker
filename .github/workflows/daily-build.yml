@@ -33,7 +33,9 @@ jobs:
 
       - name: Fetch mentions
         env:
-          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}     # TikTok only — no official API covers earned mentions there
+          META_TOKEN: ${{ secrets.META_TOKEN }}       # Instagram — official Graph API, free & precise
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
         run: python3 fetch_mentions.py
 
       - name: Sync search volume (from any dropped CSVs)
