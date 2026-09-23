@@ -33,9 +33,12 @@ jobs:
 
       - name: Fetch mentions
         env:
-          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}     # TikTok only — no official API covers earned mentions there
-          META_TOKEN: ${{ secrets.META_TOKEN }}       # Instagram — official Graph API, free & precise
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}                       # TikTok earned mentions only — no official API covers third-party search there
+          META_TOKEN: ${{ secrets.META_TOKEN }}                         # Instagram — official Graph API, free & precise
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          TIKTOK_CLIENT_KEY: ${{ secrets.TIKTOK_CLIENT_KEY }}           # TikTok owned-channel stats — official Display API
+          TIKTOK_CLIENT_SECRET: ${{ secrets.TIKTOK_CLIENT_SECRET }}
+          TIKTOK_REFRESH_TOKEN: ${{ secrets.TIKTOK_REFRESH_TOKEN }}     # long-lived (1yr), not rotated on use — refreshed to a live access token every run
         run: python3 fetch_mentions.py
 
       - name: Sync search volume (from any dropped CSVs)

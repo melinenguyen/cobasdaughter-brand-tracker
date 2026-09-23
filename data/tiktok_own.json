@@ -1,0 +1,3629 @@
+{
+ "generated_utc": "2026-09-23T11:13:00.997735Z",
+ "account": {
+  "following_count": 8,
+  "likes_count": 8335,
+  "open_id": "-000J--bMsarN5ioy25W4cmjHs_-enf_gLgu",
+  "video_count": 241,
+  "avatar_url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/f51fe420c152394aae211afbafe355d8~tplv-tiktokx-cropcenter:168:168.jpeg?dr=9638&refresh_token=7c75f621&x-expires=1790334000&x-signature=wguiG5zvmqRiVyodazLDD8kHOkY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=8aecc5ac&idc=useast8",
+  "display_name": "CoBa's Daughter",
+  "follower_count": 8313
+ },
+ "videos": [
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7685350585930992926",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7685350585930992926?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Aloe-powered hydration to soothe, refresh, and leave skin feeling soft #aloegel #aloevera #soothinggel #bodycare ",
+   "ts": "2026-09-20T16:54:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 40,
+    "likes": 1,
+    "comments": 1,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7685349099108912414",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7685349099108912414?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Buff away the buildup, bring back the glow #coffeescrub #exfoliator #cobasdaughter #coffeeexfoliator #summerskincare ",
+   "ts": "2026-09-18T16:49:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 176,
+    "likes": 2,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7685350018697497886",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7685350018697497886?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "A little Aloe to soothe, hydrate, and refresh your skin #aloegel #aloevera #soothinggel #bodycare ",
+   "ts": "2026-09-17T23:53:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 67,
+    "likes": 3,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7685346249175731486",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7685346249175731486?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "A day of new faces, good conversations, and a little CoBa’s Daughter along the way.  #glossypopnyc #glossypop #cobasdaughter #coffeeexfoliator #summerskincare ",
+   "ts": "2026-09-16T16:38:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 127,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7685343736875732255",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7685343736875732255?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "A rich, creamy coffee scrub made with Vietnamese Robusta coffee, turning your shower into a little moment to reset, smooth, and recharge #cobasdaughter #coffeeexfoliator #coffeescrub #summerskincare #bathtime ",
+   "ts": "2026-09-15T16:27:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 119,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7685343062452751646",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7685343062452751646?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "The little gift that works for any occasion #glossypopnyc #glossypopnyc2026 #cobasdaughter #viral ",
+   "ts": "2026-09-14T23:26:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 112,
+    "likes": 1,
+    "comments": 1,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7685172577748225310",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7685172577748225310?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Some of the thoughtful moments from our day at Glossy Pop NYC #glossypopnyc #glossyco #cobasdaughter #viral ",
+   "ts": "2026-09-13T23:54:50+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 126,
+    "likes": 3,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7684726913004342559",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7684726913004342559?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Wrapping up a wonderful day at Glossy Pop NYC yesterday. 🤎 Everything about this event was wonderful. Our team had the chance to connect with so many amazing creators, meet new people, and connect with fellow brands along the way. But there was one little story about our Mini Gift Set that we didn’t quite expect… 👀 If you were at Glossy Pop NYC and received our Mini Gift Set, we’d be so grateful for a little love. We’d love to hear what you think, and if you share your experience, don’t forget to tag @cobasdaughter.official And of course, thank you Glossy for such a wonderful event and for having CoBa’s Daughter with you!  #glossypopnyc #viral #fyppppppppppppppppppppppp #cobasdaughter #summerskincare ",
+   "ts": "2026-09-12T22:35:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 101,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7684726171635911949",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7684726171635911949?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "We’re at Glossy Pop NYC !!! #glossypopnyc #viral #fyppppppppppppppppppppppp #cobasdaughter ",
+   "ts": "2026-09-12T19:02:35+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 231,
+    "likes": 5,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7681538575845870878",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7681538575845870878?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Ride, rinse, restore. A simple bodycare ritual for skin that’s been through long days in the saddle. #cobasdaughter #summerskincare #coffeeexfoliator #coffeescrub ",
+   "ts": "2026-09-10T22:22:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 45,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7681530341433134366",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7681530341433134366?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Rich enough to nourish, smooth enough to glide effortlessly over your skin. #cobasdaughter #summerskincare #coffeescrub #bathtime #coffeeexfoliator ",
+   "ts": "2026-09-10T16:50:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 20,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7681529712551742750",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7681529712551742750?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "One soothing gel for all your everyday skin moments #cobasdaughter #summerskincare #aloevera #soothinggel ",
+   "ts": "2026-09-09T16:48:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 57,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7681529880206478622",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7681529880206478622?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Your go-to hydration for everyday needs #cobasdaughter #summerskincare #aloevera #soothinggel #aloesoothinggel ",
+   "ts": "2026-09-08T23:45:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 55,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7681525457988160798",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7681525457988160798?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Our Aloe Vera Soothing Gel refill brings back that weightless, cooling touch your skin reaches for, made with 99% aloe vera and a fresh coconut scent.  #cobasdaughter #summerskincare #bathtime #aloevera ",
+   "ts": "2026-09-08T16:31:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 37,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7681524961437125918",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7681524961437125918?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "From the first ride to the last rinse, make bodycare part of the ritual. A little exfoliation, a little hydration, and a moment to come back to yourself. #cobasdaughter #summerskincare #exfoliator #coffeescrub #bathtime ",
+   "ts": "2026-09-07T16:29:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 65,
+    "likes": 2,
+    "comments": 1,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7679761230889897247",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7679761230889897247?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Two products, endless ways to care for your skin #cobasdaughter #summerskincare #aloevera #soothinggel #bodyscrub ",
+   "ts": "2026-09-05T23:27:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 162,
+    "likes": 4,
+    "comments": 1,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7679760553916501279",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7679760553916501279?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Make your summer moments last with Aloe Gel. #cobasdaughter #summerskincare #aloevera #soothinggel #aloesoothinggel ",
+   "ts": "2026-09-05T13:24:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 161,
+    "likes": 4,
+    "comments": 1,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7679759693400509727",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7679759693400509727?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "If the bathroom is your therapy room, make every moment count #bodycare #summerskincare #cobasdaughter #coffeescrub ",
+   "ts": "2026-09-04T22:20:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 162,
+    "likes": 2,
+    "comments": 1,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7679759015269747999",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7679759015269747999?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "This is the moment we reveal what makes the perfect bodycare texture. #bodycare #aloevera #aloegel #soothinggel #summerskincare ",
+   "ts": "2026-09-04T13:14:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 149,
+    "likes": 3,
+    "comments": 1,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7679758889276935454",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7679758889276935454?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "You don’t have to change much to create the perfect bodycare ritual. Sometimes, all you need is simple bodycare that just works. #cobasdaughter #bodycare #summerskincare #coffeescrub #bodyscrub ",
+   "ts": "2026-09-03T22:17:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 21,
+    "likes": 2,
+    "comments": 1,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7679757620776832286",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7679757620776832286?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Maybe it’s not your favorite yet. But that might change after your first try. #cobasdaughter #bodycare #coffeescrub #bodyscrub ",
+   "ts": "2026-09-02T23:12:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 189,
+    "likes": 6,
+    "comments": 1,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7679756430408305951",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7679756430408305951?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "From your morning reset to your evening wind-down, turn an ordinary shower into a small ritual of care. Let the texture of real Robusta coffee gently polish your skin, while shea butter leaves it feeling soft and nourished. #cobasdaughter #coffeescrub #bodyscrub #summerskincare ",
+   "ts": "2026-09-02T13:08:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 163,
+    "likes": 4,
+    "comments": 1,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7679755479425289502",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7679755479425289502?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Add a little sparkle to your ritual with our Aloe Gel #cobasdaughter #summerskincare #bathtime #bodycare #bathtime ",
+   "ts": "2026-09-02T00:04:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 196,
+    "likes": 12,
+    "comments": 0,
+    "shares": 1
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7679754271507762462",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7679754271507762462?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "My bodycare ritual, my kind of therapy #cobasdaughter #bodycare #bathtime #bodyscrub #summerskincare ",
+   "ts": "2026-09-01T16:59:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 164,
+    "likes": 4,
+    "comments": 2,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7679754818348469535",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7679754818348469535?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Endless summer. Endless rituals. Meet our bodycare duo: Coffee Scrub & Aloe Soothing Gel, made to keep your skin soft, smooth, and refreshed all summer long. #cobasdaughter #bodycare #summerskincare ",
+   "ts": "2026-08-31T22:01:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 168,
+    "likes": 8,
+    "comments": 2,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7679753852962295070",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7679753852962295070?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Keep your bodycare simple. Keep it effortless. #cobasdaughter #bodycare #summerskincare ",
+   "ts": "2026-08-31T11:58:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 155,
+    "likes": 4,
+    "comments": 0,
+    "shares": 1
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7679753309950971167",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7679753309950971167?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Endless summer, endless Bodycare ritual #aloegel #aloevera #summerskincare #bodycare ",
+   "ts": "2026-08-30T09:26:01+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 198,
+    "likes": 10,
+    "comments": 1,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7678148470464728351",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7678148470464728351?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Our 3in1 Bath Gel turns an everyday shower into a quiet aromatherapy ritual. Rich, gentle bubbles cleanse the skin while a delicate botanical scent lingers softly, leaving you feeling fresh, relaxed, and beautifully renewed. #bathtime #bathroutine #bathgel #cobasdaughter ",
+   "ts": "2026-08-28T14:07:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 293,
+    "likes": 11,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7678147537659890975",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7678147537659890975?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Let the day’s heat melt away. Leave your skin wrapped in cool, weightless hydration. #bodycare #aloevera #aloesoothinggel #sunburnrelief ",
+   "ts": "2026-08-27T15:03:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 142,
+    "likes": 4,
+    "comments": 1,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7678147041318472990",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7678147041318472990?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Our Coffee Body Exfoliator pairs finely milled Robusta coffee grounds with rich, nourishing shea butter to gently buff away dryness and roughness. #bodyscrub #coffeescrub #coffeeexfoliator #bodycare ",
+   "ts": "2026-08-26T16:01:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 117,
+    "likes": 3,
+    "comments": 2,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7678146636396104990",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7678146636396104990?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "From the barn to the bath, it’s gone with just one step #bodyscrub #bodyexfoliator #coffeescrub #bodycare ",
+   "ts": "2026-08-26T01:30:32+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 404,
+    "likes": 16,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7675939691161472287",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7675939691161472287?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Sun-warmed skin, cooled by a touch of aloe. A lightweight veil of soothing hydration that melts effortlessly into the skin, leaving it fresh, soft, and comfortable.  #aloegel #aloevera #sunburnrelief #soothinggel #sunburn ",
+   "ts": "2026-08-20T22:15:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 98,
+    "likes": 5,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7675938615461039390",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7675938615461039390?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Finely milled coffee grounds gently polish the skin, turning exfoliation into a sensorial ritual. #bodyscrub #bodycare #coffeescrub #coffeeexfoliator ",
+   "ts": "2026-08-20T02:42:29+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 352,
+    "likes": 5,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7673672638065020191",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7673672638065020191?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Robusta is deeply connected to Vietnam’s coffee culture, making it an ingredient with a story we wanted to bring into modern bodycare. #coffeescrub ",
+   "ts": "2026-08-17T00:39:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 103,
+    "likes": 5,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7673670525628992798",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7673670525628992798?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "What does your skin really need? #cobasdaughter #endlesssummer #aloegel ",
+   "ts": "2026-08-16T00:30:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 141,
+    "likes": 10,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7673671858843077918",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7673671858843077918?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Your skin deserves a better ritual #cobasdaughter #endlesssummer ",
+   "ts": "2026-08-15T00:35:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 114,
+    "likes": 6,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7673669975906733342",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7673669975906733342?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Refill for summer glowy skin #cobasdaughter #endlesssummer ",
+   "ts": "2026-08-15T00:28:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 124,
+    "likes": 5,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7673668997539204382",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7673668997539204382?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Get ready for your summer glow up #aloevera #aloegel #cobasdaughter #endlesssummer ",
+   "ts": "2026-08-13T23:55:09+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 82,
+    "likes": 6,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7672978703705558285",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7672978703705558285?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Endless rituals for endless summer days. Slow moments, sun-kissed skin, and a glow that stays with you long after golden hour. #cobasdaughter ",
+   "ts": "2026-08-12T03:16:25+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 67,
+    "likes": 4,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7670014771562876190",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7670014771562876190?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Every massage awakens the senses, smooths rough skin, and leaves behind the softness only nature can create. #cobasdaughter #coffeescrub #bodycare #endlesssummer ",
+   "ts": "2026-08-11T00:12:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 47,
+    "likes": 2,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7669969920003804446",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7669969920003804446?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Whether you’ve spent the day outdoors or simply need a moment of calm, our Aloe Vera Soothing Gel brings lightweight hydration and lasting comfort to your skin. #sunburnrelief #aloeveragel #aloesoothinggel #cobasdaughter ",
+   "ts": "2026-08-10T00:10:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 137,
+    "likes": 3,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7669969353688796446",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7669969353688796446?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "A refreshing layer of 99% Aloe Vera that hydrates, soothes, and leaves skin feeling calm without the sticky finish #sunburnrelief #cobasdaughter #aloevera #aloeveragel #aloesoothinggel ",
+   "ts": "2026-08-08T23:07:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 127,
+    "likes": 5,
+    "comments": 1,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7669970685371944222",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7669970685371944222?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Awaken your skin with the rich texture of our Coffee Body Exfoliator, then soothe and replenish with the cooling touch of 99% Aloe Vera Soothing Gel. Inspired by nature and designed for everyday care, this is bodycare you’ll look forward to, day after day.  #coffeescrub #aloevera #cobasdaughter #endlesssummer ",
+   "ts": "2026-08-08T00:03:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 136,
+    "likes": 6,
+    "comments": 2,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7669970781702606110",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7669970781702606110?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Exfoliate with the richness of 100% Robusta coffee. Create a bodycare ritual that leaves your skin smooth, soothed, and ready for every day ahead. #coffeescrub #cobasdaughter #bodycare #endlesssummer ",
+   "ts": "2026-08-07T00:05:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 309,
+    "likes": 8,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7670010987788897566",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7670010987788897566?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Some rituals never go out of season #aloevera #cobasdaughter #coffeescrub #bodycare ",
+   "ts": "2026-08-05T21:02:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 24,
+    "likes": 4,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7670015041550290207",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7670015041550290207?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Restore your glow with our Coffee Body Exfoliator. Finely milled Robusta coffee gently buffs away buildup while Shea Butter replenishes lasting moisture, revealing skin that’s soft, radiant, and ready for whatever comes next. #cobasdaughter #coffeescrub #bodycare #robustacoffee #bodyscrub ",
+   "ts": "2026-08-04T23:52:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 431,
+    "likes": 11,
+    "comments": 2,
+    "shares": 1
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7669964780647501086",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7669964780647501086?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "A simple ritual with 100% Robusta coffee transforms rough, tired skin into a smoother, softer canvas. Rich in botanical care and finished with nourishing Shea Butter, it’s the everyday indulgence your body deserves. After one use: 100% felt cleansed and awakened. 98% felt renewed and nourished. Feel the difference after every shower. #cobasdaughter #coffeescrub #coffeeexfoliator #bodycare ",
+   "ts": "2026-08-04T00:20:45+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 120,
+    "likes": 3,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7667012907804167454",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7667012907804167454?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Your summer essentials, this is aloe soothing gel #aloevera #aloesoothinggel #endlesssummer #sunburnrelief ",
+   "ts": "2026-07-27T01:26:03+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 169,
+    "likes": 5,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7660372704645664030",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7660372704645664030?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Your favorite body care rituals, thoughtfully refilled. Featuring the Coffee Exfoliator and Aloe Soothing Gel, this duo is designed to exfoliate, soothe, and hydrate, again and again. #cobasdaughter #coffeescrub #soothinggel #aloevera #endlesssummer ",
+   "ts": "2026-07-18T16:26:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 97,
+    "likes": 4,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7660369879048015134",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7660369879048015134?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Your endless summer ritual begins in Vietnam’s Highlands. Our Coffee Exfoliator gently buffs away dull, dry skin while leaving your body feeling soft, smooth, and refreshed. #cobasdaughter #coffeescrub #robustacoffee #bodycare ",
+   "ts": "2026-07-17T16:06:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 96,
+    "likes": 9,
+    "comments": 1,
+    "shares": 1
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7660369824974900510",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7660369824974900510?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Your must-have product for summer skincare #cobasdaughter #bodycare #aloevera #sunburnrelief ",
+   "ts": "2026-07-16T14:11:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 48,
+    "likes": 6,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7660365999136378143",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7660365999136378143?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "make bodycare effortless with aloe soothing gel #cobasdaughter #aloevera #sunburnrelief #refillday ",
+   "ts": "2026-07-15T16:02:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 327,
+    "likes": 12,
+    "comments": 0,
+    "shares": 2
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7660365146925059359",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7660365146925059359?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Refill your endless soothing ritual #cobasdaughter #aloevera #sunburnrelief #refillday ",
+   "ts": "2026-07-14T22:58:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 299,
+    "likes": 7,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7660363198138305822",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7660363198138305822?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Made with 99% Aloe Vera, this lightweight gel delivers an instant feeling of comfort while helping to hydrate and refresh your skin.  #cobasdaughter #aloevera #bodycare ",
+   "ts": "2026-07-13T22:51:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 91,
+    "likes": 4,
+    "comments": 0,
+    "shares": 1
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7660359265017728286",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7660359265017728286?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Crafted with 100% Robusta Coffee from Vietnam’s Highlands, our Coffee Exfoliator gently buffs away dullness while leaving your skin feeling soft, smooth, and refreshed. A simple ritual, inspired by the richness of Vietnam and made to be enjoyed every day. #cobasdaughter #endlesssummer #coffeescrub ",
+   "ts": "2026-07-12T22:36:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 207,
+    "likes": 8,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7660358598844845343",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7660358598844845343?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Summer isn’t just a season. It’s a feeling. Warm mornings, golden light, skin kissed by the sun, and the quiet ritual of caring for yourself at the end of the day. Carry that feeling with you, one ritual at a time. #cobasdaughter #endlesssummer #aloevera #sunburnrelief #bodycare ",
+   "ts": "2026-07-11T22:33:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 157,
+    "likes": 6,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7660357944768335134",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7660357944768335134?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Some rituals are worth returning to. Refill the ones you love, preserve the moments that matter, and let every bottle be a reminder that true luxury isn’t about having more, it’s’s about choosing what deserves to stay. #cobasdaughter #endlesssummer #bodycare #sunburnrelief ",
+   "ts": "2026-07-10T22:30:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 133,
+    "likes": 10,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7660355478395948319",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7660355478395948319?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Aloe-powered hydration for radiant looking skin #cobasdaughter #endlesssummer #bodycare #sunburnrelief ",
+   "ts": "2026-07-09T16:21:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 159,
+    "likes": 7,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7660355098496879903",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7660355098496879903?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "It’s refill day. ✨ A small ritual that keeps your favorites going a little longer, less waste, more of the body care you love. #cobasdaughter #endlesssummer #bodycare #sunburnrelief ",
+   "ts": "2026-07-09T12:20:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 136,
+    "likes": 5,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7660356473318313246",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7660356473318313246?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "The soothing gel I keep reaching for #cobasdaughter #endlesssummer #bodycare #sunburnrelief ",
+   "ts": "2026-07-09T03:25:18+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 272,
+    "likes": 15,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7659822780543716638",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7659822780543716638?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "The ritual that work is worth keeping #endlesssummer #cobasdaughter #bodyscrub #bodycare ",
+   "ts": "2026-07-07T16:24:55+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 124,
+    "likes": 3,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7659551205630217503",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7659551205630217503?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "A soothing ritual for summer skin #cobasdaughter #endlesssummer #aloevera ",
+   "ts": "2026-07-07T00:20:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 113,
+    "likes": 5,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7659550165455490334",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7659550165455490334?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Your post-sun ritual has never felt this good #cobasdaughter #endlesssummer #refillday ",
+   "ts": "2026-07-06T22:46:56+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 168,
+    "likes": 7,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7658846825897544991",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7658846825897544991?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "If there’s one summer we’re manifesting, it’s an Endless Summer. A season of soft skin, sun-soaked rituals, and moments that linger. Now available for pre-order",
+   "ts": "2026-07-05T01:17:27+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 38,
+    "likes": 6,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7658731761873980703",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7658731761873980703?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "It’s time to refill your summer ritual #cobasdaughter #refillday #aloevera #endlesssummer ",
+   "ts": "2026-07-04T22:20:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 265,
+    "likes": 8,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7658733045280738590",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7658733045280738590?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Keep your skin refilled all summer long #cobasdaughter #endlesssummer #refillday ",
+   "ts": "2026-07-04T20:25:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 101,
+    "likes": 3,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7658730845020245279",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7658730845020245279?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "The ritual your summer skin has been waiting for  ✨Pre-orders Start Now #cobasdaughter #bodyscrub #refillday #endlesssummer ",
+   "ts": "2026-07-04T17:47:31+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 184,
+    "likes": 5,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7657727483273334047",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7657727483273334047?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "From the warmth of the saddle to the comfort of your ritual.  #cobasdaughter #equestrian #equestrianlife ",
+   "ts": "2026-07-02T20:23:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 140,
+    "likes": 3,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7657726554155306270",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7657726554155306270?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Endless Summer starts with CoBa’s Daughter Refill. ☀️🤍 Pre-order opens July 3rd. #cobasdaughter #refillday #endlesssummer #bodycare ",
+   "ts": "2026-07-02T16:20:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 120,
+    "likes": 4,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7657725803588881694",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7657725803588881694?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Thank you @thekylieblakely for choosing CoBa’s Daughter to be part of your everyday ritual. 🤍 #cobasdaughter #barnday #equestrian #equestrianlife #horsetok",
+   "ts": "2026-07-02T00:47:31+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 136,
+    "likes": 7,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7657015368455556382",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7657015368455556382?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "You can see the soothing comfort in every drop #sunburnrelief #sunburn #aloevera #soothinggel ",
+   "ts": "2026-06-30T02:50:29+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 235,
+    "likes": 7,
+    "comments": 0,
+    "shares": 1
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7656409209881234719",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7656409209881234719?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "More than an event, it’s a place where everyone connects #beautyevent #bodycare #bodycareroutine #cobasdaughter ",
+   "ts": "2026-06-28T16:08:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 186,
+    "likes": 6,
+    "comments": 1,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7656408386166148383",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7656408386166148383?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Stay glowing all summer with our soothing Aloe Gel #aloevera #aloegel #soothinggel #sunburn #sunburnrelief ",
+   "ts": "2026-06-28T11:35:52+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 389,
+    "likes": 6,
+    "comments": 1,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7655651136489164062",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7655651136489164062?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "More than a wellness event, it was a celebration of connection, self-care, and shared experiences #cobasdaughter #bodycare #beautyevent #brandevent ",
+   "ts": "2026-06-27T14:05:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 207,
+    "likes": 4,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7655649867796073759",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7655649867796073759?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Everyone has their own way of refilling - Coming in July!  #coffeescrub #bodycare #bodynourishment #cobasdaughter #coffeetime ",
+   "ts": "2026-06-26T22:01:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 142,
+    "likes": 2,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7655648651838000415",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7655648651838000415?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Crafted with aromatherapy, each product offers a unique experience for the body and mind. #aloevera #aloegel #sunburnrelief #bodycare #cobasdaughter ",
+   "ts": "2026-06-26T14:57:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 389,
+    "likes": 7,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7655015123022630175",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7655015123022630175?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "It’s your favorite time of the ritual: refill time #coffeescrub #coffee #bodyscrub #bodycareroutine ",
+   "ts": "2026-06-24T21:58:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 112,
+    "likes": 3,
+    "comments": 0,
+    "shares": 2
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7655025730874559774",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7655025730874559774?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Aloe gel is your beach-day essential, cooling skin back to calm after sun #aloevera #aloegel #sunburn #sunburnrelief #bodycare ",
+   "ts": "2026-06-24T19:39:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 173,
+    "likes": 2,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7655023301277895966",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7655023301277895966?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Thank you for sharing this moment of beauty, mindfulness, and connection with us! #cobasdaughter #beautyevent #event #bodycare #bodycareproducts ",
+   "ts": "2026-06-24T18:00:25+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 138,
+    "likes": 4,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7654868330007776543",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7654868330007776543?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Make refill time your favorite part of the ritual #aloegel #aloevera #sunburn #sunburnrelief #sunburned ",
+   "ts": "2026-06-24T14:28:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 352,
+    "likes": 5,
+    "comments": 0,
+    "shares": 1
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7654864768334875934",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7654864768334875934?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "a quiet ritual of cooling relief and daily restoration #aloegel #aloesoothinggel #bodycareroutine #cobasdaughter #bodycare ",
+   "ts": "2026-06-24T12:14:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 193,
+    "likes": 6,
+    "comments": 2,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7654398376456375582",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7654398376456375582?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Not just meditation, but a curated beauty experience where ritual, mindfulness, and self-care come together. #beautyevent #bodycareroutine #cobasdaughter #bodycare ",
+   "ts": "2026-06-23T19:04:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 116,
+    "likes": 5,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7654397650782948639",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7654397650782948639?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "More than meditation, it’s a beauty experience rooted in mindfulness and ritual #cobasdaughter #bodycare #bodycareroutine #beautyevent ",
+   "ts": "2026-06-23T16:02:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 124,
+    "likes": 7,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7654396765134785822",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7654396765134785822?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Girl grip 🤍 #cobasdaughter #bodycare #girlgrip #bodycareroutine ",
+   "ts": "2026-06-23T12:58:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 140,
+    "likes": 4,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7654391590814747935",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7654391590814747935?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Launching this July, just in time for summer ✨ #cobasdaughter #refil #newproduct #bodycare ",
+   "ts": "2026-06-23T02:38:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 56,
+    "likes": 4,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7654394065852648735",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7654394065852648735?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Still thinking about this day 🤍 CoBa’s Daughter Grounding & Graceful Event  #cobasdaughter #beautyevent #bodycare #meetthefounder ",
+   "ts": "2026-06-23T01:47:48+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 117,
+    "likes": 3,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7654390158447398175",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7654390158447398175?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "The cooling touch your summer skin deserves #aloevera #aloegel #cobasdaughter #refil ",
+   "ts": "2026-06-23T01:03:16+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 62,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7651801756761869599",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7651801756761869599?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Officially launching this July Celebrating World Refill Day with a ritual that’s better for your skin and kinder to the places we love most. #refill #refillday #cobasdaughter #newproduct ",
+   "ts": "2026-06-16T01:39:03+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 166,
+    "likes": 6,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7651077110588656927",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7651077110588656927?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Coming in July #cobasdaughter #newproduct #refill ",
+   "ts": "2026-06-14T20:16:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 109,
+    "likes": 4,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7651076757906378015",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7651076757906378015?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Some said no one loves brand events anymore. We chose to do things differently. 👀 #cobasdaughter #beautyevent ",
+   "ts": "2026-06-14T17:15:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 175,
+    "likes": 5,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7651076204111334686",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7651076204111334686?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "The opposite of a typical brand event #cobasdaughter #beautyevent #bodycare #bodycareroutine ",
+   "ts": "2026-06-14T15:13:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 270,
+    "likes": 7,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7651071610236964127",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7651071610236964127?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "An intimate event with our community in Austin, Texas #cobasdaughter #beautyevent #bodycare #bodycareroutine #soundbath ",
+   "ts": "2026-06-14T13:55:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 334,
+    "likes": 18,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7651068998372625695",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7651068998372625695?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "A reset for the mind, body, and soul  #cobasdaughter #beautyevent #bodycare #soundbath #bodycareproducts ",
+   "ts": "2026-06-14T03:43:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 134,
+    "likes": 3,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7651068041265990942",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7651068041265990942?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Grateful for the shared moments, real conversations, and creative energy from our creators #cobasdaughter #beautyevent ",
+   "ts": "2026-06-14T02:11:52+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 137,
+    "likes": 4,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7649238577301212447",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7649238577301212447?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Everything came together beautifully, making this a truly memorable event and marking CoBa's Daughter's first appearance in San Francisco. Thank you for joining us and helping create such a wonderful evening. We deeply appreciate your presence, your support, and everything you brought to this special experience. #cobasdaughter #beautyevent #meetthefounder #sfcreator #bodycare",
+   "ts": "2026-06-09T03:52:32+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 168,
+    "likes": 5,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7649237664079629599",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7649237664079629599?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "We didn't want to simply host another event. We wanted our very first gathering to be a complete and meaningful experience, one that goes beyond body care to nurture the mind and inner well-being of everyone who joined us. A holistic experience, thoughtfully curated and uniquely Coba’s Daughter.  #cobasdaughter #soundbath #brandedcoconut #meetthefounder #coffeescrub ",
+   "ts": "2026-06-09T03:48:59+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 178,
+    "likes": 7,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7647607027568479518",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7647607027568479518?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Would you join our hood? 👯‍♀️ #cobasdaughter #daughterhood ",
+   "ts": "2026-06-04T18:21:29+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 113,
+    "likes": 5,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7647577076576390430",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7647577076576390430?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "POV: Your summer starts with a seat at our Daughterhood table 🤍 #cobasdaughter #brandevent ",
+   "ts": "2026-06-04T16:25:18+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 72,
+    "likes": 3,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7647511910044192030",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7647511910044192030?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Hi, Austin! We did have a great time 🤍👭🏻 #cobasdaughter #brandevent ",
+   "ts": "2026-06-04T12:12:47+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 173,
+    "likes": 4,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7629006319458077966",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7629006319458077966?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Be loved by Equestrian Community 🤍 #cobasdaughter #yearofthehorse #bodycare #luxurygifts #equestrian ",
+   "ts": "2026-04-15T15:21:53+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 210,
+    "likes": 4,
+    "comments": 1,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7628406142284107039",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7628406142284107039?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Crafted by skilled hands of artisan  #cobasdaughter #yearofthehorse #bodycare #luxurygifts ",
+   "ts": "2026-04-14T00:32:10+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 238,
+    "likes": 6,
+    "comments": 1,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7626924575011409166",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7626924575011409166?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Bath and Body Care Gift Set 🤍 #cobasdaughter #yearofthehorse #bodycare #giftbasket #mothersday ",
+   "ts": "2026-04-10T00:42:58+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 195,
+    "likes": 5,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7625292509899476237",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7625292509899476237?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Beauty lives in discipline the small rituals repeated with intention #cobasdaughter #yearofthehorse #bodycare ",
+   "ts": "2026-04-05T15:09:53+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 194,
+    "likes": 3,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7624777852730363150",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7624777852730363150?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "For a disciplined woman, ritual is never a routine. It is a quiet gesture she returns to, day after day #cobasdaughter #yearofthehorse #bodycare",
+   "ts": "2026-04-04T05:53:18+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 219,
+    "likes": 4,
+    "comments": 1,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7623434875600768270",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7623434875600768270?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "A ritual is the quiet language of diícipline #cobasdaughter #yearofthehorse #bodycare",
+   "ts": "2026-03-31T15:01:29+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 163,
+    "likes": 5,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7621711645290548511",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7621711645290548511?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Grace is not something learned.\n It is built into the body, revealed through balance and control. #cobasdaughter #yearofthehorse #bodycare ",
+   "ts": "2026-03-26T23:34:07+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 132,
+    "likes": 5,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7621215776913001741",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7621215776913001741?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Chapter 5: The rythm of spring Spring isn’t about rushing.\n It’s about rhythm - steady, grounded, intentional. \n#cobasdaughter #yearofthehorse #bodycare #lowmaintenanceluxury #spring ",
+   "ts": "2026-03-25T15:30:25+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 74,
+    "likes": 5,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7620974985577843982",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7620974985577843982?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "The beauty lies not in spectacle, but in restraint. In the discipline of movement. In the confidence of knowing exactly how fast to go. #cobasdaughter #yearofthehorse #bodycare",
+   "ts": "2026-03-24T23:55:38+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 112,
+    "likes": 2,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7620643168207359263",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7620643168207359263?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "LThis is the season when coffee flowers open across the Central Highlands. Around Lunar New Year, the air turns softly fragrant. Not intensely floral, but delicately sweet. Creamy, airy, with a whisper reminiscent of vanilla drifting through cool morning mist. That fleeting blossom lives within this harmony.\n #cobasdaughter #yearofthehorse #bodycare ",
+   "ts": "2026-03-24T02:27:43+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 83,
+    "likes": 3,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7620480355157478687",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7620480355157478687?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Chapter 4: Year Of The Horse In the early days of the Year of the Horse, everything feels gently renewed, as if the world is moving forward with quieter intention.\n \nLike the horse, she understands rhythm. She knows when to advance and when to gather her strength. She allows momentum to build with patience, trusting that endurance carries her further than urgency ever could. #cobasdaughter #yearofthehorse #bodycare \n",
+   "ts": "2026-03-23T15:56:17+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 115,
+    "likes": 2,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7620226676084985118",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7620226676084985118?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "The Year of the Horse marks a return to origin and a commitment to movement. The horse has always symbolized endurance, intuition, and quiet strength a being that moves forward without losing its connection to the land beneath. This spirit mirrors the essence of CoBa’s Daughter. She is the modern woman in constant evolution, moving through the world with intention, ambition, and clarity, yet never forgetting to return to herself.\n \n The Daughter’s Journey is not about speed, but direction.  #cobasdaughter #yearofthehorse #bodycare ",
+   "ts": "2026-03-22T23:31:37+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 109,
+    "likes": 4,
+    "comments": 1,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7618721106433690910",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7618721106433690910?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Chapter 3: The quiet momentum  Momentum does not announce itself. It builds through consistency, through touch, through time.\n #cobasdaughter #yearofthehorse #bodycare ",
+   "ts": "2026-03-18T22:09:18+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 103,
+    "likes": 4,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7618239137715473695",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7618239137715473695?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "It begins in the highlands, where coffee cherries ripen slowly under generous sun and mineral rich soil. Where green tea leaves are gathered in the cool of early morning, carrying the clarity of mountain air.\n \n From that landscape of earth and mist, the journey continues quietly, transformed into texture and scent.\n #cobasdaughter #yearofthehorse #bodycare ",
+   "ts": "2026-03-17T14:58:54+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 115,
+    "likes": 2,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7617975428195667230",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7617975428195667230?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "In the Year of the Horse, she moves with quiet strength, grounded in ritual and guided by her own rhythm. Strong, composed, and quietly captivating, the aroma of coffee unfolds like the modern woman herself, powerful, yet effortlessly elegant #cobasdaughter #yearofthehorse #bodycare",
+   "ts": "2026-03-16T21:55:33+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 138,
+    "likes": 2,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7617634809543789854",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7617634809543789854?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Chater 2: Forward with intention The Year of the Horse is not about speed alone, but about knowing where you are headed. Movement gains meaning when it is guided by clarity, when every step forward is taken with awareness and purpose.\n \n At CoBa’s Daughter, we create the foundation. Through rituals that cleanse the weight of what has passed and refine the present moment, the body is prepared to move with confidence. Momentum follows naturally when intention comes first.\n \n Cleanse the past.\n Polish the present.\n Move forward with intention. #cobasdaughter #yearofthehorse #bodycare ",
+   "ts": "2026-03-15T23:53:57+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 129,
+    "likes": 4,
+    "comments": 1,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7616885764428778783",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7616885764428778783?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "The fruit ripens slowly, then releases its outer layers, letting go of what once protected it to reveal the bean within. This quiet transformation is essential. Without shedding, there is no clarity, no depth, no readiness for what comes next. Lunar New Year holds the same promise. As the Year of the Horse begins, we follow nature’s rhythm releasing what the body no longer needs, refining the surface with intention and care. Through gentle exfoliation, yesterday is softened and lifted away, allowing the skin to breathe, reset, and renew. This is not removal, but revelation. #cobasdaughter #yearofthehorse #bodycare",
+   "ts": "2026-03-13T23:27:16+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 133,
+    "likes": 2,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7615786827085106463",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7615786827085106463?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Coffee does not rush its becoming. It begins in silence, rooted deep within basaltic red soil, where minerals, rain, and time work patiently beneath the surface. In Vietnam’s Central Highlands, each coffee tree grows with intention, its strength shaped long before the first harvest. The weight of origin is carried in every stage from root to branch, from green fruit to ripened bean. Nothing is accidental. Everything is earned.\n #cobasdaughter #yearofthehorse #bodycare ",
+   "ts": "2026-03-11T00:22:52+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 127,
+    "likes": 7,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7602924626024484126",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7602924626024484126?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "100% Robusta coffee from Viet Nam #cobasdaughter #yearofthehorse #bodyscrub ",
+   "ts": "2026-02-04T08:30:52+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 188,
+    "likes": 96,
+    "comments": 20,
+    "shares": 152
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7602923736144121119",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7602923736144121119?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "In Vietnamese culture, the horse embodies forward motion, the quiet power of endurance, the rhythm of hooves that never linger, never retreat. It moves with purpose, carrying the promise of progress and the grace of becoming. In the Year of the Horse, we chose a highland horse to tell the story of CoBa’s Daughter. Born from the Central Highlands, where mist settles over mountains at dawn and raw ingredients are shaped by soil, wind, and time. This is where our roots breathe. Our horse is not a symbol of speed, but of continuity. Of moving forward with intention. Of refining, evolving, and rising, again and again. A reflection of our belief in thoughtful innovation and the courage to lead without losing touch with origin. Like the first step of a long journey, this moment is only the beginning. #cobasdaughter #yearofthehorse #bodyscrub ",
+   "ts": "2026-02-04T08:27:24+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 293,
+    "likes": 124,
+    "comments": 16,
+    "shares": 179
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7602922862751599903",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7602922862751599903?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "In Vietnamese culture, the horse embodies forward motion, the quiet power of endurance, the rhythm of hooves that never linger, never retreat. It moves with purpose, carrying the promise of progress and the grace of becoming. In the Year of the Horse, we chose a highland horse to tell the story of CoBa’s Daughter. Born from the Central Highlands, where mist settles over mountains at dawn and raw ingredients are shaped by soil, wind, and time. This is where our roots breathe. Our horse is not a symbol of speed, but of continuity. Of moving forward with intention. Of refining, evolving, and rising, again and again. A reflection of our belief in thoughtful innovation and the courage to lead without losing touch with origin. Like the first step of a long journey, this moment is only the beginning. #cobasdaughter #yearofthehorse #yearofthehorse2026 #bodycare ",
+   "ts": "2026-02-04T08:24:03+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 349,
+    "likes": 134,
+    "comments": 17,
+    "shares": 121
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7602072961259998495",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7602072961259998495?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Today, we return to where it all begins - the Highlands. A land of rolling plateaus, red basalt soil, morning mist, and winds that move slowly but with purpose. In Vietnam, the Highlands are shaped by altitude and time, where sunlight feels gentler, the air runs clearer, and nature grows with quiet intention. From this land, all living things are formed with a certain spirit. Trees take root deeply, growing strong against changing seasons. Creatures born here learn resilience early, steady, enduring, and unafraid of long journeys. Strength is not loud, it is built through patience, persistence, and harmony with the land. This year, we chose the horse as our symbol. Through its eyes, we tell a story of origin, of forward motion grounded in where we come from. Because in the end, every journey, every evolution, begins with its roots. #cobasdaughter #yearofthehorse #bodycare ",
+   "ts": "2026-02-02T01:25:56+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 253,
+    "likes": 124,
+    "comments": 12,
+    "shares": 176
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7602068413174811935",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7602068413174811935?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "A considered union of two highland essences lies at heart of our coffee exfoliator. The crisp, luminous presence of green tea brings a quiet sense of clarity, softening the mind and restoring inner calm. Balanced against it, the warm depth of coffee stirs the senses, grounding, energising, and quietly empowering. Together, they form a refined sensory ritual: clarity embraced by warmth, designed to elevate both skin and spirit.  #cobasdaughter #bodyscrub #yearofthehorse #bodycare ",
+   "ts": "2026-02-02T01:08:23+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 245,
+    "likes": 127,
+    "comments": 16,
+    "shares": 162
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7602005683768249631",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7602005683768249631?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Honoring natural beauty and indigenous ingredients, CoBa’s Daughter Coffee Exfoliator weaves stories through its evocative scent and the timeless elegance of cultural heritage. #cobasdaughter #bodyscrub #yearofthehorse ",
+   "ts": "2026-02-01T21:04:54+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 245,
+    "likes": 97,
+    "comments": 13,
+    "shares": 106
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7602004375271214367",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7602004375271214367?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "A new beauty moment begins this year, shaped by natural ingredients and an endless inspiration of scents that honor the spirit of its native land.  #cobasdaughter #bodycare #yearofthehorse ",
+   "ts": "2026-02-01T20:59:54+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 262,
+    "likes": 127,
+    "comments": 21,
+    "shares": 133
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7602003620736847135",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7602003620736847135?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Step into the new year with a moment of self-care, elevated by our body care duo.  #cobasdaughter #bodycare #newyearsday #yearofthehorse ",
+   "ts": "2026-02-01T20:56:50+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 287,
+    "likes": 131,
+    "comments": 14,
+    "shares": 155
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7601327947328343326",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7601327947328343326?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Across the open plains, the horse moves with instinctive grace. Grounded, resilient, always in motion yet never detached from the land beneath it. Coffee grows the same way deeply rooted, shaped by wind, sun, and time, drawing its strength from what lies below the surface. Both speak the same quiet language of endurance, where true power is cultivated in depth, not display. This is where our CoBa’s Daughter begins. A return to self, not as retreat, but as preparation. She understands that to move forward, one must first be anchored. Self care becomes a ritual of alignment a way to gather strength, refine clarity, and step ahead with intention. Her beauty is not performative. It is private, deliberate, and quietly powerful. She is the evolution of the matriarch global, independent, and deeply rooted. Forward is not a direction, but a state of being. Always moving, ahead of the time, never compromising. The Daughter’s journey continues into a new year where beauty is a personal declaration of readiness.  #cobasdaughter #yearofthehorse #thedaughtersjourney ",
+   "ts": "2026-01-31T01:14:55+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 196,
+    "likes": 100,
+    "comments": 12,
+    "shares": 101
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7601222660911009055",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7601222660911009055?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Tracing the origins of coffee beans on Vietnamese soil. #cobasdaughter #yearofthehorse #coffeeexfoliator #bodyscrub ",
+   "ts": "2026-01-30T18:26:17+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 274,
+    "likes": 114,
+    "comments": 19,
+    "shares": 173
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7601116250520964382",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7601116250520964382?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Luxury Spa Gift Set for Women – 3-Piece Mini Body Care",
+   "ts": "2026-01-30T11:33:20+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 6339,
+    "likes": 28,
+    "comments": 1,
+    "shares": 2
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7601083716181462303",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7601083716181462303?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Glamorous Spa Retreat: Your Ultimate Relaxation Gift",
+   "ts": "2026-01-30T09:27:03+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 47581,
+    "likes": 14,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7601083457657228575",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7601083457657228575?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Glamorous Spa Retreat: Your Ultimate Relaxation Gift",
+   "ts": "2026-01-30T09:26:03+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 48757,
+    "likes": 15,
+    "comments": 0,
+    "shares": 1
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7595414957345361182",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7595414957345361182?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "A thoughtfully chosen ingredient, beneficial in every sense.  #cobasdaughter #coffeeexfoliator #bodyscrub #coffeescrub  ",
+   "ts": "2026-01-15T02:49:34+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 230,
+    "likes": 122,
+    "comments": 11,
+    "shares": 85
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7595022075287325982",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7595022075287325982?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "How this luxurious body care set was created #cobasdaughter #bodycare #giftguide ",
+   "ts": "2026-01-14T01:24:57+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 183,
+    "likes": 11,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7595015140987145503",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7595015140987145503?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "A thoughtfully chosen ingredient, beneficial in every sense #cobasdaughter #coffeeexfoliator #coffeescrub #aromatherapy ",
+   "ts": "2026-01-14T00:58:03+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 160,
+    "likes": 9,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7587626639865941278",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7587626639865941278?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Little things that make the perfect gift #giftguide #giftforher #bodycare #stockingstufferideas #christmas ",
+   "ts": "2025-12-25T03:06:51+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 235,
+    "likes": 8,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7586354942617668894",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7586354942617668894?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Today marks the winter solstice - a magic moment for rest, reflection and intention-setting. Tonight, light a candle. Write your 12 wishes for the next year. Gift yourself a moment to pause. And hold space for what's coming.  We know it will filled with good things! 🤍 xo, CoBa's Daughter team #cobasdaughter #wintersolstice #happyholidays ",
+   "ts": "2025-12-21T16:52:14+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 189,
+    "likes": 14,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7586354479855865119",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7586354479855865119?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Oh no you forget to buy your Christmas gift? Our holiday gift set is here to save your time! 🍯 Turmeric Honey Salt Exfoliator with golden Vietnamese turmeric and raw honey to reduce dead skin cells and impurites. 🍊Almond Orange Body Exfoliator blending crushed almond with bright citrus notes for gentle exfoliation and smooth skin sensation. 💧Aloe Soothing Gel infused with tropical coconut oil for deep hydration and moisture locked-in. A last minute gift worth acting on! Add to cart now 🛒",
+   "ts": "2025-12-21T16:50:20+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 571,
+    "likes": 8,
+    "comments": 1,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7584867024313109790",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7584867024313109790?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "This exfoliate & nourising bodycare set is perfect for this winter #giftset #bodycare #giftideas #bodycareproduct #cobasdaughter ",
+   "ts": "2025-12-17T16:38:04+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 642,
+    "likes": 10,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7584850336561597727",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7584850336561597727?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "POV: you visit a lovely holiday pop-up by CoBa’s Daughter #cobasdaughter #bodycare #popup #popupstore #holidays ",
+   "ts": "2025-12-17T15:33:18+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 212,
+    "likes": 11,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7581112949184449823",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7581112949184449823?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Your new stocking-stuffer fave for the Christmas getaway 🎁✨ The pretty @dupont_ugc fell in love with our Mini Gift Set, no wonder! It’s the kind of tiny, thoughtful holiday gift that just hits: perfect for stockings, Secret Santa, or that one friend who loves intentional self-care 🤍 #cobasdaughter #holidaygifts #giftguide #christmasgiftideas #luxurygifts ",
+   "ts": "2025-12-07T13:50:48+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 730,
+    "likes": 9,
+    "comments": 1,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7577570330353421598",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7577570330353421598?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "i accidentally found my new fav scrub during a girl’s trip #giftguide #giftsforher #christmasgiftideas #bodycare #giftexchange ",
+   "ts": "2025-11-28T00:43:13+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 4209,
+    "likes": 8,
+    "comments": 1,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7577555181945097503",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7577555181945097503?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Spa gift set under $30?  If you’re looking for a body care product, this set is the perfect choice, a thoughtful gift for any special occasion #giftguide #giftsforher #giftset #christmasgiftideas #bodycare ",
+   "ts": "2025-11-27T23:44:29+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 4835,
+    "likes": 4,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7577512004810706206",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7577512004810706206?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Not all packaging is meant to be thrown away. Our Exfoliate & Nourish Body Care Set is designed to be treasured inside and out. Let's keep the packaging, display it, reuse it and gift it, because the whole set is made for every moment!  #cobasdaughter #bodycare #giftguide #giftidea ",
+   "ts": "2025-11-27T20:56:51+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 105774,
+    "likes": 20,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7577343770799246622",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7577343770799246622?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Enjoy a spa-at-home experience with this body care gift set. If you’re not sure what to get for the upcoming Christmas season, this is definitely worth a try. #homespa #giftguide #giftideas #bodycare #christmasgiftideas ",
+   "ts": "2025-11-27T10:05:05+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 8984,
+    "likes": 5,
+    "comments": 0,
+    "shares": 1
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7577319522772815135",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7577319522772815135?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "If you want to surprise your friends with the ultimate at-home spa experience, you definitely have to try this gift set.  It’s packed with luxurious, soothing treats that pamper the body and refresh the mind, making every moment feel like a special escape. #giftguide #giftexchange #giftsforher #christmasgiftideas #whiteelephantgift ",
+   "ts": "2025-11-27T08:30:29+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 855,
+    "likes": 3,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7577305472466832670",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7577305472466832670?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "A special gift set for your loved ones from our heart and hands. Perfect luxury gift for the holiday season. #cobasdaughter #giftguide #giftideas #bodycare #christmasgiftideas ",
+   "ts": "2025-11-27T07:35:51+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 211,
+    "likes": 12,
+    "comments": 0,
+    "shares": 2
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7577271157204847902",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7577271157204847902?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Are you all set for the upcoming festive season? Discover the perfect affordable luxury gift for every thoughtful occasion and for every loved one in our collection. #cobasdaughter #holidayseason #giftguide #giftexchange #giftsforher ",
+   "ts": "2025-11-27T05:22:25+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 162,
+    "likes": 6,
+    "comments": 0,
+    "shares": 1
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7577247525761994015",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7577247525761994015?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "This Body Care Set is such a treat, everyone’s going to love it for gift exchanges #holidaygift #giftexchange #giftguide #giftsforher #whiteelephant ",
+   "ts": "2025-11-27T03:50:35+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 3981,
+    "likes": 7,
+    "comments": 0,
+    "shares": 2
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7577210142509321502",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7577210142509321502?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "A gift set crafted for the holidays, perfect gift exchange idea for your White Elephant game #holidaygift #whiteelephant #giftguide #giftsforher #blackfriday ",
+   "ts": "2025-11-27T01:25:33+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 7142,
+    "likes": 4,
+    "comments": 0,
+    "shares": 2
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7577108562216783134",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7577108562216783134?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "To all the December divas, the CoBa's Daughter Exfoliate & Nourish Body Care Set is a little luxury from our heart to your hands 🤍 Get the perfect luxury gift this holiday season - one for every moment! #cobasdaughter #giftguide #giftidea #luxurygifting",
+   "ts": "2025-11-26T18:51:25+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 42451,
+    "likes": 8,
+    "comments": 1,
+    "shares": 2
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7577104425643150623",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7577104425643150623?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "From a bridal shower goodie bag to the hands of your loved ones, our CoBa's Daughter bodycare set is the luxury holiday gift that everyone wants to unwrap this festive season 🤍 #cobasdaughter #bodycare #giftguide #holidaygifts #giftset ",
+   "ts": "2025-11-26T18:35:15+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 3445,
+    "likes": 4,
+    "comments": 0,
+    "shares": 1
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7575065029037378829",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7575065029037378829?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Crafted with care, made to delight, and perfect for every special moment. Deluxe Bath & Body Care Gift Set from CoBa’s Daughter. #giftguide #giftideas #giftsforher #bodycareset ",
+   "ts": "2025-11-21T06:42:39+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 62799,
+    "likes": 21,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7574312317836430622",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7574312317836430622?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "From nature to a thoughtful gift, perfect whenever it matters #cobasdaughter #giftguide #giftideas #bodycare ",
+   "ts": "2025-11-19T06:00:27+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 960,
+    "likes": 93,
+    "comments": 2,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7574296845980093727",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7574296845980093727?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Make any occasion unforgettable with the ultimate pampering gift from CoBa’s Daughter.  Introducing our Deluxe Bath & Body Care Gift Set - a thoughtful gift that brings care and comfort to every moment. #cobasdaughter #giftguide #gifts #giftsforher #giftideas ",
+   "ts": "2025-11-19T05:00:22+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 149757,
+    "likes": 31,
+    "comments": 1,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7574295182464634143",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7574295182464634143?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "CoBa’s Daughter Body Care Set infused with the essence of Vietnamese culture #cobasdaughter #bodycareset #giftset #giftideas #christmasgift ",
+   "ts": "2025-11-19T04:53:55+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 839,
+    "likes": 68,
+    "comments": 0,
+    "shares": 1
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7572060783849295134",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7572060783849295134?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "All in one special gift set, inspired by local ingredients, crafted with care, and made to bring the essence of Vietnam’s natural beauty into your self-care ritual. #cobasdaughter #bodycareset #giftset #giftideas #christmasgift",
+   "ts": "2025-11-13T04:23:28+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 68210,
+    "likes": 19,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7572048030044556574",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7572048030044556574?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "My little morning routine every day #skincare #glowup #skincareroutine #morningroutine #glowuptips ",
+   "ts": "2025-11-13T03:33:49+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 490,
+    "likes": 64,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7570528554669083935",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7570528554669083935?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Every gift begins with the hands of an artisan. Today, we tell the story of the hands that created it.  #cobasdaughter #giftguide #giftset #giftideas #giftsforher ",
+   "ts": "2025-11-09T01:17:31+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 128147,
+    "likes": 21,
+    "comments": 0,
+    "shares": 1
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7569278468983180574",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7569278468983180574?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "What the product they are talking about? All-in-one Aloe Vera Gel from CoBa’s Daughter👀 #aloevera #aloeveragel #cobasdaughter #bodycare #personalcare  ",
+   "ts": "2025-11-07T16:51:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 5375,
+    "likes": 53,
+    "comments": 1,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7569274379901635871",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7569274379901635871?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Winter is here, the time when your skin becomes more sensitive. It’s the perfect moment to pamper your skin and keep that healthy, glowy look.  #aloeveragel #winterskincare #oilyskincare #dryskin #bodycare ",
+   "ts": "2025-11-05T16:36:18+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 6908,
+    "likes": 41,
+    "comments": 0,
+    "shares": 3
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7568707048389610783",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7568707048389610783?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "The perfect gift for every get-together ✨  #cobasdaughter #bodycare #giftideas #giftset #personalcare ",
+   "ts": "2025-11-04T03:29:08+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 106319,
+    "likes": 405,
+    "comments": 4,
+    "shares": 5
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7567341014160084255",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7567341014160084255?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "As seasons shift, her skin often feels dry and tired 🍂 She chose CoBa’s Daughter Mini Gift Set with 3 steps to glow: 1️⃣ Almond Orange Scrub to gently exfoliate and refresh. 2️⃣ Turmeric Honey Scrub to purify, smooth, and brighten. 3️⃣ Aloe Gel to seal in hydration to soothe and lock in hydration. The perfect little set, in a size made for thoughtful gifting! #cobadaughter #womengiftset #giftforher #bodycare #glowingskin ",
+   "ts": "2025-10-31T11:08:31+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 58818,
+    "likes": 76,
+    "comments": 0,
+    "shares": 1
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7567305902684998942",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7567305902684998942?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Nothing makes us happier than seeing you glow. Thank you for sharing your love! 💋 #cobasdaughter #personalcare #premium #bodycare #cleanbeauty  ",
+   "ts": "2025-10-31T08:52:52+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 7481,
+    "likes": 48,
+    "comments": 0,
+    "shares": 3
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7565779031040232735",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7565779031040232735?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "This Body Care Set is a must-have product this Gifting Season✨ #cobasdaughter #personalcare #bodycare #giftset #giftideas  ",
+   "ts": "2025-10-27T06:07:31+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 1623,
+    "likes": 9,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7565187033476386103",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7565187033476386103?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Why you should use a coffee exfoliator from CoBa’s Daughter?✨  #cobasdaughter #bodycare #coffeescrubs #coffeeholic #cleanbeauty ",
+   "ts": "2025-10-25T15:49:58+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 5533,
+    "likes": 26,
+    "comments": 1,
+    "shares": 14
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7563107485809249566",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7563107485809249566?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Can you guess which product this is? 🤣 The answer’s revealed at the end! 👀  #cobasdaughter #bodycare #personalcare #aloevera #soothinggel ",
+   "ts": "2025-10-20T01:19:59+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 8896,
+    "likes": 10,
+    "comments": 0,
+    "shares": 1
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7562715886818168094",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7562715886818168094?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Friendly reminder: Don’t forget to take care of your skin, even after a busy day 💖 #busyday #cobasdaughter #bodycare #personalcare #aloevera ",
+   "ts": "2025-10-19T00:00:21+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 108,
+    "likes": 5,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7561619852977278238",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7561619852977278238?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Every girl on October 15th👸🏼Can’t wait for the show! 👠✨  #victoriasecret #victoriasecret2025 #fashionshow #bodycare #personalcare ",
+   "ts": "2025-10-16T01:07:08+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 1032,
+    "likes": 52,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7560966977926221087",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7560966977926221087?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "The only coffee scrub with a green tea scent ✨ We turned scent into everyday aromatherapy, calm, comfort, and clarity in every note.  #coffeescrub #bodyscrub #bodycare #cobasdaughter #skinproblems ",
+   "ts": "2025-10-14T06:53:43+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 6568,
+    "likes": 10,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7560497045467843871",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7560497045467843871?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "gifting season is coming! #giftideas #gifts #giftguide #tiktokmademebuyit #fyp ",
+   "ts": "2025-10-13T00:30:07+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 1079,
+    "likes": 17,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7560154765334826271",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7560154765334826271?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "One step to glowing skin the natural way with Aloe Vera Soothing Gel✨  #cobasdaughter #aloevera #aloeveragel #bodycare #glowup ",
+   "ts": "2025-10-12T02:21:56+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 209,
+    "likes": 13,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7559793079302049054",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7559793079302049054?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Keep your skin calm and glowing through seasonal changes #bodycare #glowup #aloevera #aloeveragel #cobasdaughter ",
+   "ts": "2025-10-11T02:58:17+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 294,
+    "likes": 12,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7559373918713171231",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7559373918713171231?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "GRWM busy weekend after work✨ #afterworkroutine #afterwork #corporategirlies #coolgirlaesthetic #bodycare ",
+   "ts": "2025-10-09T23:51:52+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 4908,
+    "likes": 29,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7558995212618501406",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7558995212618501406?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "POV: your skin feels dry from the cold and this is how you glow up✨ #glowup #skinproblems #skincareroutine #winterskincare #dryskin ",
+   "ts": "2025-10-08T23:22:21+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 7651,
+    "likes": 50,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7558647398575263007",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7558647398575263007?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Glowing skin starts with self-love.✨ #bodycare #bodyscrub  #bodycareroutine #bodycareproducts #giftideas",
+   "ts": "2025-10-08T00:52:36+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 28427,
+    "likes": 59,
+    "comments": 0,
+    "shares": 4
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7558291660946279711",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7558291660946279711?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Guided by our philosophy of Low Maintenance Luxury Self-care, we create refined, nature-inspired & Vietnamese heritage rooted beauty essentials that elevate your daily ritual with ease and elegance🍃 Grateful for every customer who has been part of this journey ✨ #cobasdaughter #selfcare #bodycare #brandstory #lowmaintenance ",
+   "ts": "2025-10-07T01:52:03+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 10726,
+    "likes": 10,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7556782303872159031",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7556782303872159031?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Guess what? Which one is the imposter in this picture? #imposter #bodycareproducts #bodycare #giftideas #octobermood ",
+   "ts": "2025-10-03T00:15:24+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 57306,
+    "likes": 31,
+    "comments": 0,
+    "shares": 2
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7556413298925653261",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7556413298925653261?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "October’s new obsession💦 #october #octobermood #octoberfinds #bodycare #aloeveragel ",
+   "ts": "2025-10-02T00:23:19+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 111,
+    "likes": 11,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7556001845261454622",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7556001845261454622?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "This is how Aloe Soothing Gel feels at first use✨ #aloevera #aloeveraskincare #aloeveragel #stayprime #seasonalessentials ",
+   "ts": "2025-09-30T21:46:31+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 152,
+    "likes": 12,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7555730364619132191",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7555730364619132191?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "What we give out, we get back✨ Celebrate someone you love with something truly special👌  #giftideas #giftsforher #gifts #stayprime #bodycare ",
+   "ts": "2025-09-30T04:13:08+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 17246,
+    "likes": 30,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7555665325748915486",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7555665325748915486?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "My little secret for glowing, moisturized skin when the seasons shift. #seasonalessentials #seasonchange #bodycare #stayprime #selfcareroutine ",
+   "ts": "2025-09-30T00:00:35+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 75465,
+    "likes": 30,
+    "comments": 2,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7554498150904417566",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7554498150904417566?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "5120x1080, everything just hits different in ultrawide ✨✨ #cobasdaughter #selfcare #selfcareroutine #stayprime #bodycare ",
+   "ts": "2025-09-26T20:31:28+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 82,
+    "likes": 15,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7553999753172815159",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7553999753172815159?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Deal extended!!! This September only, don’t miss the biggest sale of the month! CoBa’s Daughter best-selling products are now available with special deals. ✨Only on TikTokShop - don’t miss out! #onsale #discount #bodycare #cobasdaughter #tiktokmademebuyit ",
+   "ts": "2025-09-25T12:17:19+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 28546,
+    "likes": 8,
+    "comments": 0,
+    "shares": 2
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7553891571524062495",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7553891571524062495?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Best birthday giftset for true frugal chic girl 💋 Miniset from CoBa’s Daughter is the perfect little reset - pretty packaging, prime minis, and just what I needed to stay prime through every turn. #cobasdaughter #inmyprimeera #september #miniset #exfoliator #aloegel #giftforher #frugalchic ",
+   "ts": "2025-09-25T05:18:04+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 30514,
+    "likes": 106,
+    "comments": 0,
+    "shares": 3
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7553617448008830239",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7553617448008830239?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Finallyyy the Coffee Scrub is backkkk ✨ I love the fresh scent, that grainy texture, it makes my skin feel so smooth!!  Shop now at shopping cart 💋 #cobadaughter #coffeescrub #stayprime #backinstock #september #officelife ",
+   "ts": "2025-09-24T11:33:49+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 845,
+    "likes": 11,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7553502786760084767",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7553502786760084767?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "ONLY on September 24 - your Prime treat is HERE! Enjoy exclusive deals with up to 30% OFF on our best-selling products! Only on TikTokShop - don’t miss out! #onsale #cobasdaughter #discount #bodycare #tiktokmademebuyit ",
+   "ts": "2025-09-24T04:08:50+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 17843,
+    "likes": 13,
+    "comments": 0,
+    "shares": 2
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7552129040929262878",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7552129040929262878?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Busy PA student here 🙋‍♀️ having this Aloe vera gel for everything - face mask, body care and hair 💋 One step that keeps me feeling fresh everyday ✨ #cobadaughter #aloeveragel #pastudent #inmyprimeera #glowup #fyp ",
+   "ts": "2025-09-20T11:18:41+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 5602,
+    "likes": 10,
+    "comments": 2,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7551688376118725919",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7551688376118725919?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Dry skin season who? 👀 One jar, endless calm from our 99% Aloe Vera Gel ✨ #cobasdaughter #aloecalmskin #dryskin ",
+   "ts": "2025-09-19T06:48:43+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 12154,
+    "likes": 11,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7550028099295923487",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7550028099295923487?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Skin oh so baby soft 👼🏻✨ #cobasdaughter #aloevera #babysoftskin #glassskin #glazeddonut ",
+   "ts": "2025-09-14T19:25:17+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 2016,
+    "likes": 137,
+    "comments": 2,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7549482278045453598",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7549482278045453598?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "It’s been a while and Coffee Scrub is still clueless 😭 She is gonna be back soon ✨ #cobasdaughter #coffeescrub #bodyscrub ",
+   "ts": "2025-09-13T08:08:02+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 1893,
+    "likes": 118,
+    "comments": 8,
+    "shares": 7
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7549468530656202015",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7549468530656202015?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "\"Not changing, but choosing.\" #cobasdaughter #inmyprime #selfcare #bodycare #change ",
+   "ts": "2025-09-13T07:14:20+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 202,
+    "likes": 22,
+    "comments": 0,
+    "shares": 1
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7549079545035509022",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7549079545035509022?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "That little gift for you to stay prime through every turn 🤍 #cobasdaughter #motherhood #womengifts #selfcare #inmyprime ",
+   "ts": "2025-09-12T06:05:02+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 3379,
+    "likes": 167,
+    "comments": 2,
+    "shares": 2
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7547963571313855775",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7547963571313855775?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Our Aloe Soothing Gel is crafted with lightweight formula for after-sun calm, face & hair mask hydration, post-shave relief, and all-day skin dew. Pure aloe with tropical coconut infused, it's all in one glass-clear, cloud-soft formula ☁️ #cobasdaughter #inmyprime #aloe #aloeveragel #hydration ",
+   "ts": "2025-09-09T05:54:13+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 10301,
+    "likes": 23,
+    "comments": 1,
+    "shares": 2
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7547742738595187999",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7547742738595187999?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Glass skin energy only, no matter how the weather shifts 🍂 #cobasdaughter #inmyprime #glassskin #aloegel #glazeddonut ",
+   "ts": "2025-09-08T15:36:50+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 50757,
+    "likes": 15,
+    "comments": 0,
+    "shares": 3
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7546264274637786399",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7546264274637786399?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "After all, seasons change. Yet you are still here staying prime through every turn 💫 #cobasdaughter #seasonchange #inmyprime #fyp #autumn ",
+   "ts": "2025-09-04T15:59:41+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 37008,
+    "likes": 97,
+    "comments": 14,
+    "shares": 10
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7544822817230048543",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7544822817230048543?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Our manager is on her vacation and we know she has one job to be done 😌💅🏻🌊 #cobasdaughter #fyp #corporategirlies #inmyprime #bodyset ",
+   "ts": "2025-08-31T18:46:08+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 59331,
+    "likes": 14,
+    "comments": 0,
+    "shares": 1
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7543500503733292301",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7543500503733292301?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "The Aloe is a yes! And the second daughter has always been engaged 💍🤍 #cobasdaughter #inmyprime #engaged #fyp #aloe ",
+   "ts": "2025-08-28T05:15:23+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 4268,
+    "likes": 19,
+    "comments": 0,
+    "shares": 2
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7542876920677993758",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7542876920677993758?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "It's almost the end of August and we are still living in it 🌊🌴☀️ #cobasdaughter #backinmyprime #aloevera  #inmyprimeera #fyp ",
+   "ts": "2025-08-26T12:55:23+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 242,
+    "likes": 14,
+    "comments": 0,
+    "shares": 3
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7540384453755931934",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7540384453755931934?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Pure like your Prime ✨🤍 #cobasdaughter #aloevera #sunkissed #inmyprime ",
+   "ts": "2025-08-19T19:42:56+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 23903,
+    "likes": 15,
+    "comments": 0,
+    "shares": 3
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7539995619486715167",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7539995619486715167?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "The Aloe Vera naturally soothes your skin and helps lock in moisture after your everything shower routine. It calms your skin and keeps it hydrated without doing too much. We just keep it simple and clean, so your skin can stay in its prime. #cobasdaughter #everythingshower #moisturizer #soothinggel #aloevera ",
+   "ts": "2025-08-18T18:34:04+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 64592,
+    "likes": 53,
+    "comments": 1,
+    "shares": 3
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7539605832799980831",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7539605832799980831?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Have you ever been in love? With such a glowy, velvety, fine granular creamy body exfoliator? 😋☕️ Made from 100% Robusta coffee, the CoBa's Daughter Body Exfoliator buffs away dullness with a rich, creamy texture. Fine coffee granules polish, while shea butter and green tea extract hydrate and calm — leaving your skin soft, smooth, and glowing in its prime, while enhancing your body aroma. #bodyscrub #coffee #cobasdaughter #matcha #exfoliation ",
+   "ts": "2025-08-17T17:21:38+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 53573,
+    "likes": 24,
+    "comments": 0,
+    "shares": 3
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7537753331179998494",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7537753331179998494?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Pure like your Prime 🫧🪽 Our Aloe Soothing Gel is made with 99% pure aloe vera to soothe sun-kissed tanned skin — from Palm Springs sun to Miami beach days. The only aloe gel infused with coconut scent, for cooling hydration that feels like vacation 🥥 For sun-soaked skin, post-shave calm, or whenever you need something gentle, soothing, and refreshing. #fyp #cobasdaughter #backinmyprime #aloevera #tanning ",
+   "ts": "2025-08-12T17:33:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 30420,
+    "likes": 18,
+    "comments": 0,
+    "shares": 2
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7534829646869777695",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7534829646869777695?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "August is the month of reset, of rituals, of coming back to the version of you that feels strong, rested, and radiant. This season, we’re not starting over. We’re stepping back into our prime. #cobasdaughter #backinmyprime #august #lowmaintenance #fyp #foryou ",
+   "ts": "2025-08-04T20:27:38+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 274,
+    "likes": 25,
+    "comments": 1,
+    "shares": 3
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7533668800366005534",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7533668800366005534?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "It's the summer of your prime and you pack your essentials to stay low maintenance. Summertime is just getting easy ☀️⛱️ #fyp #cobasdaughter #summertime #inmyprime #foryou ",
+   "ts": "2025-08-01T17:22:58+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 234,
+    "likes": 14,
+    "comments": 0,
+    "shares": 4
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7532185355567615263",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7532185355567615263?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "And here she comes — the star is back! 💫 Our Robusta Coffee Scrub is now back in stock. Crafted with 100% Vietnamese Robusta coffee ground— she is bold, rich, and as invigorating as your favorite brew. Infused with matcha for antioxidants and shea butter to soothe, she leaves your skin smooth, calm, and renewed. The kind of luxury for your prime. #fyp #cobasdaughter #lowmaintenance #bodyscrub #coffeescrub #sugarscrub #coffee #exfoliation #vietnamesecoffee #selflove #selfcare #bodycare #foryou",
+   "ts": "2025-07-28T17:26:28+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 6126,
+    "likes": 225,
+    "comments": 4,
+    "shares": 11
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7531813823192386847",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7531813823192386847?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Our Hair Oil knows what is best for your hair: weightless, non-greasy, naturally-nourishing from herbal oils. Let's just go back in your prime, effortlessly. #fyp #cobasdaughter #haircare #hairtok #hairoil",
+   "ts": "2025-07-27T17:24:45+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 161,
+    "likes": 8,
+    "comments": 1,
+    "shares": 4
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7531720087355526430",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7531720087355526430?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "With this philosophy, we create an after-shower ritual with two essentials for lighter, low-maintenance hair days, every day. Shop the duo today! #fyp #cobasdaughter #lowmaintenancehair #hairoil #hairserum #hairspray #haircare #foryou ",
+   "ts": "2025-07-27T11:21:38+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 570,
+    "likes": 13,
+    "comments": 0,
+    "shares": 3
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7531095537190325535",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7531095537190325535?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "She’s finally back 🌴🫧 Introducing our best-selling Aloe Soothing Gel (with that dreamy tropical coconut scent). Crafted with care, infused with 99% aloe vera and a hint of tropical coconut scent, this versatile beloved soothes sunburns, hydrates parched skin, and calms post-shave irritation. #cobasdaughter #lowmaintenance #aloevera #aloegel #soothinggel #sunburn #fyp #foryou ",
+   "ts": "2025-07-25T18:57:22+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 1375,
+    "likes": 51,
+    "comments": 0,
+    "shares": 3
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7530649745434496287",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7530649745434496287?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Never skip a good hair day 🤭 Start fresh with CoBa’s Daughter Hair Spray — weightless volume that stays put with relaxing aromatherapy from Redensyl, Camellia Sinensis Leaf Extract & Chia Seed Peptides.  Gloss it up with the Ultimate Gloss Hair Serum with 7 natural oils from Inca Inchi, argan, lavender, and olive oils for UV defense and endless shine. #fyp #lowmaintenancehair #lowmaintenance #cobasdaughter #prime #inmyprime #hairtok #hairoil #hairspray #shinyhair #hairlove #SelfCare #GlowUp #viral #Summer #foryou #haircare ",
+   "ts": "2025-07-24T14:07:39+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 164,
+    "likes": 7,
+    "comments": 0,
+    "shares": 4
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7530322522198314254",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7530322522198314254?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Low maintenance hair for an effortless summer day. Your prime just feels right 🌊🤍 #fyp #cobasdaughter #lowmaintenancehair #hairoil #hairspray #haircare #summer #foryou ",
+   "ts": "2025-07-23T16:58:09+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 14652,
+    "likes": 231,
+    "comments": 1,
+    "shares": 8
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7529958265199840543",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7529958265199840543?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "It's the summer of your prime ✨ And we've got you! • Density Booster Scalp Spray — for that effortless lift & volume of your hair • Ultimate Gloss Hair Serum — gloss it up & guard your strands from heat + UV • Aloe Soothing Gel with Coconut scent – soothes sunburn, moisturizes your skin, and smells like a tropical beach 🏝️  All you need for an effortless summer day, wherever the heat takes you. #fyp #cobasdaughter #summer #prime #inmyprime #loơmaintenance #summervibes #foryou ",
+   "ts": "2025-07-22T17:24:11+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 134,
+    "likes": 8,
+    "comments": 0,
+    "shares": 3
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7529606917518396702",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7529606917518396702?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Replying to @Crystal ✨🎀 One spray for an instant boost. One pump goes a long way ✨ Treat your hair just right with our Hair Care Duo 🤍 #fyp #cobasdaughter #hairoil #hairspray #haircare #hairtok #blonde #blondehair ",
+   "ts": "2025-07-21T18:40:50+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 13392,
+    "likes": 234,
+    "comments": 2,
+    "shares": 4
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7528424747156196639",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7528424747156196639?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "We hear our beloved daughters are talking about it, and we are grateful all the time ✨🤍 #fyp #cobasdaughter #hairoil #glosshairserum #curlyhair ",
+   "ts": "2025-07-18T14:13:21+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 9075,
+    "likes": 12,
+    "comments": 0,
+    "shares": 7
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7528101080471817502",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7528101080471817502?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "It's July 17th and you know what we are talking about 🌊⋆.ೃ࿔*🐚𓇼 #fyp #cobasdaughter #foryou #summer #prime ",
+   "ts": "2025-07-17T17:17:11+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 213,
+    "likes": 16,
+    "comments": 1,
+    "shares": 4
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7527720139836362014",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7527720139836362014?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "What does your Prime look like? Share the story of your own prime era and tag us to receive a free Hair Oil for your everyday grace 🤍 #fyp #cobasdaughter #foryou #shareyourstory #sharethecare #selflove #selfcare #grace ",
+   "ts": "2025-07-16T16:38:54+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 213,
+    "likes": 10,
+    "comments": 1,
+    "shares": 4
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7527322080996609311",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7527322080996609311?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Never skip a morning grapefruit. And never skip a grapefruit shower 🤭🍊 #fyp #cobasdaughter #lowmaintenance #bath #learnontiktok #foryou #grapefruit ",
+   "ts": "2025-07-15T14:54:35+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 13986,
+    "likes": 82,
+    "comments": 1,
+    "shares": 7
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7526964884915965215",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7526964884915965215?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "She is so precious, cause she is in her Prime 🪽✨ #cobasdaughter #lowmaintenance #quietluxury #haircare #bodycare #ritual #fyp #foryou ",
+   "ts": "2025-07-14T15:48:24+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 23038,
+    "likes": 137,
+    "comments": 1,
+    "shares": 3
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7526422504504626462",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7526422504504626462?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "And we call it low-maintenance luxury 🤍 #cobasdaughter #lowmaintenance #quietluxury #ritual #weekend ",
+   "ts": "2025-07-13T04:43:38+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 265,
+    "likes": 24,
+    "comments": 0,
+    "shares": 2
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7525878100660342047",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7525878100660342047?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Happy weekend! You have been doing a great job 💫 Be proud, be grateful and give yourself the love you deserve 🤍 #cobasdaughter #lowmaintenance #quietluxury #grateful #selflove #selfcare #fyp #foryou ",
+   "ts": "2025-07-11T17:31:05+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 255,
+    "likes": 10,
+    "comments": 1,
+    "shares": 4
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7525432668692040991",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7525432668692040991?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Have you forgot something, Miss? 🤭 ⊹₊⟡⋆⋆✴︎˚｡⋆ - In honor of Amazon Prime Day — we're inviting you to step into your own Prime Era with our treats: • Up to 40% OFF all CoBa's Daughter products • Free Hair Oil when you buy any 2 items From July 8-11. Shop now! #fyp #lowmaintenancehair #lowmaintenance #cobasdaughter #prime #inmyprime #hairtok #hairoil #hairspray #shinyhair #hairlove #SelfCare #GlowUp #viral #Summer #foryou #primedaydreamdeal #amazonprime",
+   "ts": "2025-07-10T12:42:29+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 12195,
+    "likes": 49,
+    "comments": 7,
+    "shares": 5
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7525113459604770078",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7525113459604770078?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "One pump in, and she’s in her prime ✨ In honor of Amazon Prime Day — we're inviting you to step into your own Prime Era with our treats: • Up to 40% OFF all CoBa's Daughter products • Free Hair Oil when you buy any 2 items From July 8-11. Shop now! #fyp #lowmaintenancehair #lowmaintenance  #cobasdaughter #prime #inmyprime #hairtok#cobasdaughteriroil #selflove #selfcare #glowup #viral #summer #foryou #longhair #primedaydreamdeals #amazonprime ",
+   "ts": "2025-07-09T16:03:43+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 21070,
+    "likes": 62,
+    "comments": 5,
+    "shares": 5
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7525106132516441374",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7525106132516441374?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Bright from the Persian lime, soft from the coconut — it’s the kind of scent that stays with you, like a prime memory of your summer. Let us take care of it, so you can be in your prime 🤍🪽 #fyp #cobasdaughter #lowmaintenance #bubblebath #aesthetic #prime #inmyprime #hawaii #coconut #Summer #quietluxury #foryou #aromatherapy ",
+   "ts": "2025-07-09T15:35:18+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 161,
+    "likes": 9,
+    "comments": 0,
+    "shares": 2
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7524751693225938207",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7524751693225938207?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "It's a slow morning, and you move gracefully with quiet heart into your Prime. #fyp #cobasdaughter #inmyprime #grace #lowmaintenance #quietluxury #foryou #aesthetic #selfcare #selflove #cleantok #morningroutine ",
+   "ts": "2025-07-08T20:00:00+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 14555,
+    "likes": 216,
+    "comments": 0,
+    "shares": 6
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7524329120415665438",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7524329120415665438?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "These quiet rituals of self-care remind us that presence is the true luxury. In honor of Amazon Prime Day — we're inviting you to step into your own Prime Era with our treats: • Up to 40% OFF all CoBa's Daughter products • Free Hair Oil when you buy any 2 items From July 8-11, on Amazon & TikTok Shop #cobasdaughter #lowmaintenance #amazonprime #primedaydreamdeals #quietluxury #primeera #ritual #slowmorning #aesthetic #quietlife #beauty #selflove #selfcare #bodycare #foryou #fyp ",
+   "ts": "2025-07-07T13:20:29+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 29014,
+    "likes": 32,
+    "comments": 2,
+    "shares": 3
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7524039752585186590",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7524039752585186590?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Nourishing your skin with a scent that grounds — in the warmth of fig, in the calm that cedarwood brings, and in the stillness you let yourself return to. Let us take care of it, so you can be in your prime 🤍🪽 #fyp #cobasdaughter #lowmaintenance #bubblebath #aesthetic #prime #inmyprime #manhattan #fig #cedarwood #quietluxury #foryou #aromatherapy ",
+   "ts": "2025-07-06T18:37:18+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 356,
+    "likes": 20,
+    "comments": 1,
+    "shares": 2
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7523307993832623391",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7523307993832623391?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "In honor of Amazon Prime Day — we're inviting you to step into your own Prime Era with our treats: • Up to 40% OFF all CoBa’s Daughter products • Free Hair Oil when you buy any 2 items From July 8–11, on our TikTok Shop & Amazon  #cobasdaughter #lowmaintenance#lowazonprime #primedaydreamdeals #bubblebath #bodyscrub #hairoil #amazonfinds #fyp #foryou ",
+   "ts": "2025-07-04T19:17:34+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 56285,
+    "likes": 1070,
+    "comments": 3,
+    "shares": 395
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7522530970109611295",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7522530970109611295?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Luxury doesn't ask for much, and that's just how your Prime Era looks like 💫 -  In honor of Amazon Prime Day — we're inviting you to step deeper into your own Prime Era with these limited treats: ✨ Up to 40% OFF all CoBa’s Daughter products ✨ Free Hair Oil when you choose any 2 items Your self-care, simplified.  From July 8–11 only. #fyp #cobasdaughter #inmyprime #prime #primeday #lowmaintenance #quietluxury #3in1soap #bubblebath #bodyscrub #coffeescrub #hairoil #hairspray #selfcare #ritual #aesthetic #shower ",
+   "ts": "2025-07-02T17:02:28+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 43606,
+    "likes": 831,
+    "comments": 10,
+    "shares": 288
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7521816705853607198",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7521816705853607198?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Starting with a good scent that lingers in a quiet morning, in how you choose what touches your skin, and in the way you carry yourself. Let us take care of it, so you can be in your prime 🤍 #fyp #cobasdaughter #aromatherapy #prime #quietluxury #lowmaintenance #aesthetic #foryou ",
+   "ts": "2025-06-30T18:50:37+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 240,
+    "likes": 18,
+    "comments": 0,
+    "shares": 1
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7521360845293620510",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7521360845293620510?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Look how pink, so prettyyy 𐙚 ˚໋🌷✧˚.🎀༘⋆ᡣ𐭩˚🧴🫧🤍 #fyp #cobasdaughter #pink #pinkaesthetic #girlhood #girly #quietluxury #lowmaintenance #3in1soap #bubblebath #viral ",
+   "ts": "2025-06-29T13:22:13+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 434,
+    "likes": 21,
+    "comments": 2,
+    "shares": 1
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7520942564443245855",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7520942564443245855?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Replying to @Christy :) If you ask us how it smells like, well... we’d say: a California dream — fresh-cut grapefruit, sun-warmed eucalyptus, and a quiet nod to Vietnamese roots in every drop 🌺🍊🌿☀️ #fyp #cobasdaughter #grapefruit #eucalyptus #aromatherapy #aesthetic #california #calm #prime #vibes ",
+   "ts": "2025-06-28T10:19:37+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 163,
+    "likes": 15,
+    "comments": 1,
+    "shares": 1
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7520315306825354527",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7520315306825354527?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "And with that, she's just back to herself—naturally and effortlessly. #fyp #cobasdaughter #softgirl #calm #quietlife #aesthetic #vibes #fypシ゚ #mycore #foryou #myvibe #viral #simplicity #lowmaintenance ",
+   "ts": "2025-06-26T17:44:28+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 243,
+    "likes": 37,
+    "comments": 1,
+    "shares": 2
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7519228877177113886",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7519228877177113886?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Soft light. Clean lines. A scent that lingers quietly, for the woman who glows with graces. #fyp #cobasdaughter #grace #lowmaintenance #quietluxury #effortlessbeauty #fig #cedarwood #beauty #Lifestyle #aesthetic #viral #selflove #selfcare",
+   "ts": "2025-06-23T19:28:35+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 344,
+    "likes": 40,
+    "comments": 1,
+    "shares": 5
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7518806349355027742",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7518806349355027742?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "For her, care is no longer about doing more. It’s about doing what matters. A gentle shower at the end of a long day. A scent that feels like exhale. A product that does exactly what it's supposed to do — no noise, no overwhelm. CoBa's Daughter was made for women like her. The ones who give deeply, move quietly, and carry it all — with grace. #fyp #cobasdaughter #grace #propagandaimnotfallingfor #lessismore #simplicity #quietluxury ",
+   "ts": "2025-06-22T16:09:08+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 436,
+    "likes": 24,
+    "comments": 2,
+    "shares": 2
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7518290386498915615",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7518290386498915615?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Effortlessly glow up ✨ - It's summer GIVEAWAY time 🌺 50 gifts of gloss—our Ultimate Gloss Hair Serum—will be given to 50 lucky ones, for this month only. To join us, you must: 🤍 Follow our TikTok @cobasdaughter.us 🤍 Like & save this post 🤍 In the comment section of this post, comment \"daughterhood\" 🤎 BONUS: Repost this post + like and comment on our latest 3 posts! Open to US residents only. Giveaway ends June 30th at midnight PST. Winners will be announced in July and contacted only via this account. Let's shine your way!  #giveaway #fyp #cobasdaughter #hairtok #haircare #hairoil #selflove #selfcare #glowup #daughterhood #viral #summer ",
+   "ts": "2025-06-21T06:47:01+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 20773,
+    "likes": 49,
+    "comments": 1,
+    "shares": 4
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7517729961961131294",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7517729961961131294?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "It's summer GIVEAWAY time ✨ 50 gifts of gloss —our Ultimate Gloss Hair Serum—will be given to the lucky ones, for this month only. To join us, you must: 🤍 Follow our TikTok @cobasdaughter.us 🤍 Like & save this post 🤍 In the comment section of this post, tag someone dear and tell us:  ✨ What does “low maintenance” mean to you? ✨ 🤎 BONUS: Repost this post + like and comment on our latest 3 posts! Open to US residents only. Giveaway ends June 30th at midnight PST. Winners will be announced in July and contacted only via this account. Let's shine your way!  #fyp #giveaway #cobasdaughter #hairtok #haircare#hairroil #hairserum #lowmaintenance #beauty #selfcare #selflove #viral ",
+   "ts": "2025-06-19T18:32:10+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 38329,
+    "likes": 38,
+    "comments": 8,
+    "shares": 1
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7516796030952770847",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7516796030952770847?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Girl math: exfoliating 2x/week = glowing for life = basically effortless therapy with @CoBa's Daughter US  #fyp #cobasdaughter #lowmaintenance #beauty #aesthetic #quietluxury #bodyscrub #exfoliation #coffee #coffeescrub #cleantok #selflove #selfcare #glowup #glowingskin #viral ",
+   "ts": "2025-06-17T06:08:19+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 30597,
+    "likes": 64,
+    "comments": 2,
+    "shares": 4
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7516024850406722846",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7516024850406722846?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Sun's out, skin's soothed, soul's calm - with all the essentials for this summer °˖𓍢ִ໋🍃✿°.💚 Oh and don't forget to bring your Aloe Soothing Gel from @CoBa's Daughter US. You will thank yourself later after the sun 🌞 #fyp #cobasdaughter #lowmaintenance #beauty #aesthetic #quietluxury #aloevera #aloeveragel #grace #summer #sunburn #soothing #womanhood #summeressentials #viral #lessismore ",
+   "ts": "2025-06-15T04:15:24+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 461,
+    "likes": 17,
+    "comments": 3,
+    "shares": 2
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7515586433185271071",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7515586433185271071?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "The perfect aloe gel doesn't exi... This is self-care at its quietest, and finest for your serene summer ☁️🍃✨️🤍 Get your grace here @CoBa's Daughter US  #fyp #cobasdaughter #lowmaintenance #beauty #aesthetic #quietluxury #aloevera #aloeveragel #grace #skincare #summer #sunburn #soothing #cleantok #beautytok #asmr #viral",
+   "ts": "2025-06-13T23:54:06+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 530,
+    "likes": 17,
+    "comments": 1,
+    "shares": 3
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7515317302481538335",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7515317302481538335?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "A little bit of this for a pretty much more ☁️°‧🫧⋆.ೃ࿔*:･ Find us on @CoBa's Daughter US and @Amazon #fyp #cobasdaughter #lowmaintenance #3in1soap #vegan #lessismore #bubblebath #showerroutine #showertok #beauty #aesthetic #beautytips #quietluxury #cleantok #beautytok #viral #selflove #amazonfind #amazonhaul #amazonmusthaves #amazonchoice ",
+   "ts": "2025-06-13T06:29:38+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 65105,
+    "likes": 139,
+    "comments": 2,
+    "shares": 5
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7514748317696363806",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7514748317696363806?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "From phin to skin, your body deserves a brew-tiful ritual. Get your glow here ✨ @CoBa’s Daughter  #fyp #selflove #cobasdaugter #bodyscrub #coffee #glowup #showertok #viral #beautytips #beautytok #cleantok #lowmaintenance #luxury ",
+   "ts": "2025-06-11T17:41:55+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 451,
+    "likes": 14,
+    "comments": 1,
+    "shares": 2
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7514679760614739230",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7514679760614739230?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "POV: You found the dream body scrub from your daily fav ☕️🫧 #cobasdaughter #fyp #selflove #selfcare #asmr #bodyscrub #cleantok ",
+   "ts": "2025-06-11T13:15:40+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 61,
+    "likes": 10,
+    "comments": 2,
+    "shares": 0
+   }
+  },
+  {
+   "platform": "tiktok",
+   "id": "tt-own:7514673461499940126",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7514673461499940126?utm_campaign=tt4d_open_api&utm_source=sbawwdc33q30rjow6b",
+   "author": "cobasdaughter.official",
+   "caption": "Heart is full 🤎 All I need for today 𐙚⋆°｡⋆♡ #fyp #aesthetics #girlhood #bathroutine #selflove #selfcare #bodyscrub #bubblebath #cleantok #cobasdaughter ",
+   "ts": "2025-06-11T12:51:17+00:00",
+   "source": "tiktok-official/own-video",
+   "engagement": {
+    "views": 53,
+    "likes": 10,
+    "comments": 0,
+    "shares": 2
+   }
+  }
+ ]
+}

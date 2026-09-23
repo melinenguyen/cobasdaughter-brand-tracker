@@ -49,6 +49,35 @@ def load_search_volume():
     return json.load(open(p))
 
 
+def load_own_tiktok():
+    p = os.path.join(DATA, "tiktok_own.json")
+    if not os.path.exists(p):
+        return None
+    d = json.load(open(p))
+    videos = d.get("videos", [])
+    monthly = defaultdict(lambda: {"views": 0, "likes": 0, "comments": 0, "shares": 0, "posts": 0})
+    for v in videos:
+        ts = v.get("ts")
+        if not ts:
+            continue
+        month = ts[:7]  # YYYY-MM
+        eng = v.get("engagement") or {}
+        m = monthly[month]
+        m["views"] += eng.get("views") or 0
+        m["likes"] += eng.get("likes") or 0
+        m["comments"] += eng.get("comments") or 0
+        m["shares"] += eng.get("shares") or 0
+        m["posts"] += 1
+    monthly_series = [{"month": k, **v} for k, v in sorted(monthly.items())]
+    top_videos = sorted(videos, key=lambda v: (v.get("engagement") or {}).get("views") or 0, reverse=True)[:8]
+    return {
+        "account": d.get("account", {}),
+        "monthly": monthly_series,
+        "top_videos": top_videos,
+        "total_posts": len(videos),
+    }
+
+
 def daily_series(mentions):
     by_date = defaultdict(lambda: defaultdict(int))
     for m in mentions:
@@ -78,6 +107,7 @@ def build():
     mentions = load_mentions()
     sv = load_search_volume()
     series = daily_series(mentions)
+    own_tiktok = load_own_tiktok()
 
     payload = {
         "generated_utc": datetime.now(timezone.utc).isoformat(),
@@ -87,6 +117,7 @@ def build():
         "trends": sv.get("google_trends", []),
         "platforms": PLATFORMS,
         "platform_label": PLATFORM_LABEL,
+        "own_tiktok": own_tiktok,
     }
 
     html = TEMPLATE.replace("__PAYLOAD__", json.dumps(payload, ensure_ascii=False))
@@ -229,6 +260,18 @@ footer{color:var(--muted); font-size:11.5px; text-align:center; margin-top:10px}
     <div class="shint" id="svHint">Manually updated — see note below.</div>
     <div id="svAmazon"></div>
     <div id="svTrends" style="margin-top:16px"></div>
+  </section>
+
+  <section id="ownTiktokSection" style="display:none">
+    <h2>Owned TikTok channel — @cobasdaughter.official</h2>
+    <div class="shint">Official Display API — exact counts from TikTok itself, not a scraped estimate. Your own posts only (not third-party mentions, tracked separately below).</div>
+    <div class="kpis" id="ownTtKpis" style="margin-bottom:18px"></div>
+    <div id="ownTtChart"></div>
+    <div style="font-size:12.5px;font-weight:700;color:var(--olive);margin:18px 0 8px">Top videos by views</div>
+    <table class="feed" id="ownTtTable">
+      <thead><tr><th>Date</th><th>Caption</th><th>Views</th><th>Likes</th><th>Comments</th><th>Shares</th><th></th></tr></thead>
+      <tbody id="ownTtBody"></tbody>
+    </table>
   </section>
 
   <section>
@@ -469,6 +512,51 @@ function renderSearchVolume(){
   }
 }
 
+function renderOwnTiktok(){
+  const own = DATA.own_tiktok;
+  const section = document.getElementById('ownTiktokSection');
+  if (!own || !own.monthly || !own.monthly.length){ section.style.display='none'; return; }
+  section.style.display='';
+
+  const a = own.account || {};
+  document.getElementById('ownTtKpis').innerHTML = `
+    <div class="kpi"><div class="l">Followers</div><div class="n">${(a.follower_count||0).toLocaleString()}</div></div>
+    <div class="kpi"><div class="l">Total likes</div><div class="n">${(a.likes_count||0).toLocaleString()}</div></div>
+    <div class="kpi"><div class="l">Total videos</div><div class="n">${(own.total_posts||0).toLocaleString()}</div></div>
+  `;
+
+  const W=1100,H=220,padL=50,padR=14,padT=14,padB=32;
+  const rows = own.monthly;
+  const maxV = Math.max(...rows.map(r=>r.views)) * 1.15 || 1;
+  const bw = (W-padL-padR)/rows.length*0.6;
+  let svg = `<svg class="chart" viewBox="0 0 ${W} ${H}">`;
+  for (let g=0; g<=3; g++){ const gy=padT+g*(H-padT-padB)/3; const val=Math.round(maxV-g*maxV/3);
+    svg += `<line class="gridline" x1="${padL}" x2="${W-padR}" y1="${gy}" y2="${gy}"/><text class="axislabel" x="4" y="${gy+3}">${val.toLocaleString()}</text>`; }
+  rows.forEach((r,i) => {
+    const cx = padL + (i+0.5)*(W-padL-padR)/rows.length;
+    const bh = (r.views/maxV)*(H-padT-padB);
+    const by = H-padB-bh;
+    svg += `<rect x="${(cx-bw/2).toFixed(1)}" y="${by.toFixed(1)}" width="${bw.toFixed(1)}" height="${bh.toFixed(1)}" rx="3" fill="var(--s1)"/>`;
+    const [y,m] = r.month.split('-');
+    svg += `<text class="axislabel" x="${cx}" y="${H-10}" text-anchor="middle">${new Date(y,m-1,1).toLocaleDateString('en-US',{month:'short',year:'2-digit'})}</text>`;
+  });
+  svg += `</svg>`;
+  document.getElementById('ownTtChart').innerHTML = `<div style="font-size:12.5px;font-weight:700;color:var(--olive);margin-bottom:6px">Views per month (own posts)</div>` + svg;
+
+  document.getElementById('ownTtBody').innerHTML = (own.top_videos||[]).map(v => {
+    const e = v.engagement || {};
+    return `<tr>
+      <td>${v.ts ? fmtHuman(parseDate(v.ts.slice(0,10))) : '—'}</td>
+      <td>${(v.caption||'').replace(/</g,'&lt;').slice(0,90)}</td>
+      <td>${(e.views||0).toLocaleString()}</td>
+      <td>${(e.likes||0).toLocaleString()}</td>
+      <td>${(e.comments||0).toLocaleString()}</td>
+      <td>${(e.shares||0).toLocaleString()}</td>
+      <td>${v.url ? `<a class="feedlink" href="${v.url}" target="_blank" rel="noopener">View →</a>` : ''}</td>
+    </tr>`;
+  }).join('') || `<tr><td colspan="7"><div class="emptystate">No videos loaded.</div></td></tr>`;
+}
+
 let feedFilterPlatform = null;
 function renderFeedFilter(){
   const el = document.getElementById('feedFilter'); el.innerHTML='';
@@ -502,7 +590,7 @@ function render(){
   renderKpis(); renderChips(); renderChart(); renderSearchVolume(); renderFeed();
 }
 
-renderLegend(); renderFeedFilter();
+renderLegend(); renderFeedFilter(); renderOwnTiktok();
 document.getElementById('genAt').textContent = new Date(DATA.generated_utc).toLocaleString('en-US',{dateStyle:'medium', timeStyle:'short'});
 applyPreset('30');
 

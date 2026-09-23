@@ -5,10 +5,13 @@ data/mentions.json (deduped by id, never overwritten once seen — a source
 resurfacing an old post just confirms a date we already have).
 
 Instagram uses the official Meta Graph API (free, precise — see social_meta.py).
-TikTok still uses Apify (social_apify.py) — TikTok's official developer API has
-no equivalent for third-party/earned-mention search at any standard tier.
+The brand's OWN TikTok channel also uses an official API now (social_tiktok_
+official.py, free, exact) — but third-party/EARNED TikTok mentions still rely
+on Apify (social_apify.py): TikTok's only search-capable official product,
+Research API, explicitly excludes commercial brands, so there is no official
+alternative for that one piece specifically.
 
-  python3 fetch_mentions.py               # free sources + official IG + TikTok (Apify)
+  python3 fetch_mentions.py               # everything, incl. TikTok Apify (earned)
   python3 fetch_mentions.py --no-tiktok   # skip the one remaining paid source
 """
 import os, sys, json, glob
@@ -17,12 +20,14 @@ from datetime import datetime
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, os.path.join(HERE, "_lib"))
 
-import mentions_free  # noqa: E402
-import social_meta     # noqa: E402
-import social_apify    # noqa: E402
+import mentions_free           # noqa: E402
+import social_meta             # noqa: E402
+import social_apify            # noqa: E402
+import social_tiktok_official  # noqa: E402
 
 DATA = os.path.join(HERE, "data")
 STORE = os.path.join(DATA, "mentions.json")
+OWN_TIKTOK_STORE = os.path.join(DATA, "tiktok_own.json")
 SEED_FLAG = os.path.join(DATA, ".seeded")
 
 
@@ -79,6 +84,26 @@ def merge(store, records):
     return added
 
 
+def fetch_own_tiktok():
+    """Kept separate from data/mentions.json on purpose: these are the brand's
+    OWN videos, not third-party buzz — mixing them into the mentions feed
+    would make 241+ owned posts drown out the handful of real earned mentions
+    per platform. Rendered as its own 'owned channel' panel instead."""
+    stats = social_tiktok_official.fetch_user_stats()
+    if stats is None:
+        print("  ! TikTok official API unavailable (no token) — owned-channel stats skipped")
+        return
+    videos = social_tiktok_official.fetch_own_videos(max_pages=15)
+    out = {
+        "generated_utc": datetime.utcnow().isoformat() + "Z",
+        "account": stats,
+        "videos": videos,
+    }
+    with open(OWN_TIKTOK_STORE, "w") as f:
+        json.dump(out, f, indent=1, ensure_ascii=False)
+    print(f"  · tiktok_own.json: {stats.get('follower_count')} followers, {len(videos)} videos")
+
+
 def main():
     skip_tiktok = "--no-tiktok" in sys.argv or "--free-only" in sys.argv  # --free-only kept as an alias
     store = load_store()
@@ -93,6 +118,9 @@ def main():
 
     print("Instagram (official Meta Graph API)...")
     total_new += merge(store, social_meta.fetch_instagram())
+
+    print("TikTok — own channel (official Display API)...")
+    fetch_own_tiktok()
 
     if not skip_tiktok:
         print("TikTok (Apify — no official alternative for earned mentions)...")

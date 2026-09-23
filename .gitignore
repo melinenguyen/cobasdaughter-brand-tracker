@@ -7,3 +7,5 @@ output/
 __pycache__/
 *.pyc
 .DS_Store
+_system/.tiktok_env
+_system/.tiktok_pkce
