@@ -57,8 +57,15 @@ def fetch_user_stats():
     if not tok:
         print("  ! no TikTok token — run _system/tiktok_oauth.py first")
         return None
-    d = _get(f"{API}/user/info/?fields={USER_FIELDS}", tok)
-    return d.get("data", {}).get("user")
+    try:
+        d = _get(f"{API}/user/info/?fields={USER_FIELDS}", tok)
+        return d.get("data", {}).get("user")
+    except urllib.error.HTTPError as e:
+        # user.info.stats wasn't granted on this authorization (happened once,
+        # 2026-09-25) — fall back to basic fields rather than losing the whole run
+        print(f"  ! full user/info fields failed ({e.code}), retrying with basic fields only")
+        d = _get(f"{API}/user/info/?fields=open_id,display_name,avatar_url", tok)
+        return d.get("data", {}).get("user")
 
 
 def fetch_own_videos(max_pages=10):

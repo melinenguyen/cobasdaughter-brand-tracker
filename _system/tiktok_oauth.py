@@ -14,7 +14,7 @@ Needs TIKTOK_CLIENT_KEY / TIKTOK_CLIENT_SECRET already in _system/.tiktok_env.
 import os, sys, json, secrets, hashlib, base64, urllib.request, urllib.parse
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-SCOPES = "user.info.basic,video.list"
+SCOPES = "user.info.basic,user.info.stats,video.list"  # stats scope needed for follower/likes/video counts
 PKCE_FILE = os.path.join(HERE, ".tiktok_pkce")  # transient, gitignored — holds the verifier between auth-url and exchange
 
 
@@ -89,6 +89,23 @@ def refresh():
     return None
 
 
+def revoke():
+    """Invalidates whatever access/refresh token is currently stored — used
+    when a token has leaked (e.g. printed somewhere it shouldn't have been)."""
+    key, secret = creds()
+    tok = os.environ.get("TIKTOK_ACCESS_TOKEN", "").strip() or _envfile("TIKTOK_ACCESS_TOKEN")
+    if not tok:
+        return False
+    data = urllib.parse.urlencode({"client_key": key, "client_secret": secret, "token": tok}).encode()
+    req = urllib.request.Request(
+        "https://open.tiktokapis.com/v2/oauth/revoke/", data=data, method="POST",
+        headers={"Content-Type": "application/x-www-form-urlencoded"},
+    )
+    with urllib.request.urlopen(req, timeout=30) as r:
+        resp = json.loads(r.read().decode())
+    return resp.get("error", {}).get("code") == "ok"
+
+
 def store(resp):
     p = os.path.join(HERE, ".tiktok_env")
     lines = [ln for ln in (open(p).read().splitlines() if os.path.exists(p) else [])
@@ -107,6 +124,8 @@ if __name__ == "__main__":
         url, state = auth_url(args[1])
         print(f"Open this URL, log in as @cobasdaughter.official, approve, then copy the\n"
               f"'code' param from wherever it redirects you (state should echo back {state}):\n\n{url}\n")
+    elif args[:1] == ["--revoke"]:
+        print("✓ revoked" if revoke() else "✗ revoke failed (token may already be invalid, which is fine)")
     elif args[:1] == ["--exchange"]:
         code, redirect_uri = args[1], args[2]
         resp = exchange(code, redirect_uri)
