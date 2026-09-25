@@ -26,15 +26,35 @@ in this code):
     Reproduced consistently (not transient) on 2026-09-23. Kept at TAGS_LIMIT
     below rather than trimming fields, since fields are cheap and frequency
     (daily) means 15 is plenty to catch everything since the last run.
+  - ig_hashtag_search is capped at 30 UNIQUE hashtags per rolling 7-day window
+    per IG user (verified against current Meta docs, 2026-09-25);  re-querying
+    the same hashtag doesn't count again. HASHTAGS_TO_POLL below is a fixed
+    list of ~6 real-world spellings, so it's the same 6 unique tags every day
+    — nowhere near the cap.
+
+2026-09-25 — coverage fix: was only polling the single exact hashtag
+"cobasdaughter", missing every misspelled variant (#cobadaughter,
+#cobasdaugther, #cobasdaughters, #cobasdaughterusa …) that real posts
+actually use, since Instagram's hashtag search has no fuzzy option — each
+spelling is a genuinely separate hashtag that must be queried by its exact
+name. Expanded HASHTAGS_TO_POLL to the proven variant list from
+marketing/performance/_system/brandmatch.py's self-test, and every result
+(both /tags and hashtag feeds) is now re-verified against brandmatch before
+being kept, so a broader net doesn't let unrelated content in.
 """
-import os, re, json, urllib.request, urllib.parse
+import os, re, json, sys, urllib.request, urllib.parse, urllib.error
 from datetime import datetime, timezone
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
+sys.path.insert(0, HERE)
+import brandmatch  # noqa: E402
 
 GRAPH = "https://graph.facebook.com/v21.0"
-HASHTAGS_TO_POLL = ["cobasdaughter"]
+HASHTAGS_TO_POLL = [
+    "cobasdaughter", "cobadaughter", "cobasdaugther",
+    "cobasdaughters", "cobasdaughterusa", "cobasdaughterofficial",
+]
 IG_RESULTS = int(os.environ.get("BST_IG_RESULTS", "25"))
 TAGS_LIMIT = int(os.environ.get("BST_IG_TAGS_LIMIT", "15"))  # see docstring — /tags 500s above ~15-20
 
@@ -128,10 +148,25 @@ def fetch_instagram():
                     "source": f"ig-graph/#{tag}",
                     "engagement": {"likes": it.get("like_count"), "comments": it.get("comments_count")},
                 })
+        except urllib.error.HTTPError as e:
+            if e.code == 400 and "2207024" in e.read().decode(errors="ignore"):
+                pass  # expected/routine: this spelling has simply never been used as a hashtag on IG
+            else:
+                print(f"  ! IG Graph hashtag #{tag} failed: HTTP {e.code}")
         except Exception as e:
             print(f"  ! IG Graph hashtag #{tag} failed: {e}")
 
-    return out
+    # Dedup (same post can carry >1 of the polled hashtag variants) + a final
+    # brandmatch pass — defensive now that HASHTAGS_TO_POLL is broader than a
+    # single exact tag, so a coincidental near-miss hashtag can't sneak in.
+    seen, deduped = set(), []
+    for r in out:
+        if r["id"] in seen:
+            continue
+        seen.add(r["id"])
+        deduped.append(r)
+    return [r for r in deduped if brandmatch.matches(text=r.get("caption"))
+            or r.get("source") == "ig-graph/tags"]  # /tags is account-tag-based, always relevant regardless of caption text
 
 
 if __name__ == "__main__":

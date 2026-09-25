@@ -17,19 +17,40 @@ have been under maintenance since Aug 2026), so old viral posts resurface.
 Each result still carries its own real creation date, so historical bucketing
 by post date is accurate even though "what's new today" from the search alone
 is not reliable.
+
+2026-09-25 — coverage fix: was only polling the single exact hashtag
+"cobasdaughter", so any real video tagged #cobadaughter, #cobasdaugther,
+#cobasdaughters etc. was invisible — TikTok hashtags have no fuzzy search,
+each spelling is queried separately. Expanded HASHTAGS_TO_POLL to the same
+proven variant list used for Instagram (see social_meta.py), and every result
+is now re-verified against brandmatch.py so a broader net doesn't let
+unrelated content in.
+
+COST NOTE: passing N hashtags to one Apify call returns up to N×TT_RESULTS
+items, so this run costs roughly 6x what the single-hashtag version did —
+~$0.12-0.24/run at the current depth (was ~$0.02-0.04). Combined with the
+existing twice-daily mention alarm in marketing/performance (~$3.60/mo), this
+tool's own daily run adds roughly $3.60-7/mo, which can approach or exceed
+the shared $5/mo Apify free-plan budget those other jobs are tuned around.
+Lower BST_TT_RESULTS if that budget needs protecting.
 """
-import os, re, json, urllib.request
+import os, re, sys, json, urllib.request
 from datetime import datetime, timezone
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
+sys.path.insert(0, HERE)
+import brandmatch  # noqa: E402
 
-HASHTAGS_TO_POLL = ["cobasdaughter"]
+HASHTAGS_TO_POLL = [
+    "cobasdaughter", "cobadaughter", "cobasdaugther",
+    "cobasdaughters", "cobasdaughterusa", "cobasdaughterofficial",
+]
 TT_ACTOR = "clockworks~tiktok-scraper"
 
 APIFY_SYNC = "https://api.apify.com/v2/acts/{}/run-sync-get-dataset-items?token={}&timeout=300"
 
-# Kept shallow on purpose — see module docstring. ~$0.02-0.04/day at this depth.
+# See COST NOTE above — was shallow-on-purpose at 1 hashtag; now spread across 6.
 TT_RESULTS = int(os.environ.get("BST_TT_RESULTS", "8"))
 
 
@@ -99,7 +120,14 @@ def fetch_tiktok():
                 })
         except Exception as e:
             print(f"  ! TikTok {tag} failed: {e}")
-    return out
+
+    seen, deduped = set(), []
+    for r in out:
+        if r["id"] in seen:
+            continue
+        seen.add(r["id"])
+        deduped.append(r)
+    return [r for r in deduped if brandmatch.matches(text=r.get("caption"))]
 
 
 if __name__ == "__main__":

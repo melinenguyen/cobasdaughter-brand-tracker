@@ -5,16 +5,28 @@ Free, keyless mention sources: Reddit + Google News + Bing News.
 Adapted from marketing/performance/_system/sources.py (same brand, same proven
 endpoints) — Reddit's .json search is blocked to anonymous clients, search.rss
 still works; Google/Bing News RSS need no key either.
+
+2026-09-25 — coverage fix: added common misspelled forms to the query itself
+(a search engine won't fuzzy-match "cobasdaugther" against a query for
+"cobasdaughter" the way a human would), and every result is now re-verified
+against brandmatch.py (marketing/performance's proven typo-tolerant matcher,
+distance<=2, transposition-aware) before being kept — so the broader query
+doesn't let unrelated results (e.g. "cobalt", "my daughter") through.
 """
-import re, time, hashlib, urllib.request, urllib.parse
+import os, re, sys, time, hashlib, urllib.request, urllib.parse
 from datetime import datetime, timezone
 from xml.etree import ElementTree as ET
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, HERE)
+import brandmatch  # noqa: E402
 
 UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
       "(KHTML, like Gecko) CoBaBrandTracker/1.0")
 
-# One combined OR-query, not three separate ones — Reddit 429s on repeated hits.
-OR_QUERY = '"coba\'s daughter" OR cobasdaughter OR "cobas daughter"'
+# One combined OR-query, not several separate ones — Reddit 429s on repeated hits.
+OR_QUERY = ('"coba\'s daughter" OR cobasdaughter OR "cobas daughter" OR cobadaughter '
+            'OR cobasdaugther OR "coba daughter"')
 
 
 def _fetch(url, timeout=30):
@@ -75,7 +87,7 @@ def fetch_reddit(limit=25):
                 "ts": e.findtext("a:updated", None, ns),
                 "source": "reddit/search",
             })
-    return out
+    return [r for r in out if brandmatch.matches(text=r.get("caption"))]
 
 
 def _rss_items(xml, source, platform="web"):
@@ -114,7 +126,7 @@ def fetch_web():
             out += _rss_items(_fetch(url), tag)
         except Exception as e:
             print(f"  ! {tag} failed: {e}")
-    return out
+    return [r for r in out if brandmatch.matches(text=r.get("caption"))]
 
 
 def fetch_all_free():
