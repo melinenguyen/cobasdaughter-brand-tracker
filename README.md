@@ -2,7 +2,10 @@
 
 Tracks brand mentions across TikTok, Instagram, Reddit and web/news, plus brand
 search volume, with a period picker and 5 built-in comparisons (vs last week,
-last month, last quarter, last comparable period, last year).
+last month, last quarter, last comparable period, last year). Every source
+polls typo/spelling variants (not just the exact "cobasdaughter" spelling)
+and every result is verified against `_lib/brandmatch.py` — see "Typo &
+variant coverage" below.
 
 **Live:** https://melinenguyen.github.io/cobasdaughter-brand-tracker/
 
@@ -111,6 +114,36 @@ behalf; it's a manual one-time step):
 | `TIKTOK_CLIENT_KEY` | `_system/.tiktok_env` |
 | `TIKTOK_CLIENT_SECRET` | `_system/.tiktok_env` |
 | `TIKTOK_REFRESH_TOKEN` | `_system/.tiktok_env` |
+
+## Typo & variant coverage (2026-09-25)
+
+Every source used to poll only the single exact spelling "cobasdaughter."
+Hashtag search (Instagram, TikTok) has **no fuzzy option** — `#cobasdaugther`
+is a completely different, separately-indexed hashtag from `#cobasdaughter`
+to the platform, so a real post using the misspelled tag was structurally
+invisible no matter how deep the search went. Fixed by:
+
+- Polling a fixed list of ~6 real-world spellings (`cobasdaughter`,
+  `cobadaughter`, `cobasdaugther`, `cobasdaughters`, `cobasdaughterusa`,
+  `cobasdaughterofficial`) on every hashtag-based source.
+- Broadening the Reddit/web text query with the same misspelled forms.
+- Verifying **every** result (from every source) against `_lib/brandmatch.py`
+  — ported from the proven, self-tested matcher already used by the
+  performance repo's mention alarm (Damerau-Levenshtein distance ≤2,
+  transposition-aware, `python3 _lib/brandmatch.py` runs its 38-case
+  self-test). This is what keeps a wider net from also letting unrelated
+  content in.
+
+Measured effect: one fetch run went from 58 to 67 stored mentions with this
+change alone, picking up real posts (e.g. under `#cobadaughter`) that the
+exact-spelling-only version could never have found.
+
+**Honest ceiling — worth saying plainly:** no method, official API or
+scraper, can guarantee "every mention on social media." Platforms only
+expose what their own public search/hashtag/tag surfaces choose to index —
+that's true for TikTok's popularity-ranked results and for Instagram's
+hashtag feed alike. This fix closes the specific, provable gap (spelling
+variants), not that ceiling.
 
 ## Known platform limits (verified, not assumed)
 
