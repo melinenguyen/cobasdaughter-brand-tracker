@@ -1489,6 +1489,97 @@
     "comments": 2,
     "shares": 4
    }
+  },
+  "ig:https://www.instagram.com/reel/Dd6J_tAO-XE/": {
+   "platform": "instagram",
+   "id": "ig:https://www.instagram.com/reel/Dd6J_tAO-XE/",
+   "url": "https://www.instagram.com/reel/Dd6J_tAO-XE/",
+   "author": "littlelifefiles",
+   "caption": "This gift set is so perfect! cobasdaughter #cobasdaughter #giftset #skincareset #skincareroutine #skincsreproducts",
+   "ts": "2026-09-30T10:49:51+00:00",
+   "source": "ig-graph/tags",
+   "engagement": {
+    "likes": 0,
+    "comments": 0
+   }
+  },
+  "ig:https://www.instagram.com/reel/Dd4zFC3B4SO/": {
+   "platform": "instagram",
+   "id": "ig:https://www.instagram.com/reel/Dd4zFC3B4SO/",
+   "url": "https://www.instagram.com/reel/Dd4zFC3B4SO/",
+   "author": "olivia.choi.ugc",
+   "caption": "A little self care moment 😌🫧🤌🏼\n\n#cobasdaughter #ugc #beautyugc #ugcexample #ugccreator cobasdaughter",
+   "ts": "2026-09-29T22:10:08+00:00",
+   "source": "ig-graph/tags",
+   "engagement": {
+    "likes": null,
+    "comments": 0
+   }
+  },
+  "ig:https://www.instagram.com/reel/Dd4PXZLqfOc/": {
+   "platform": "instagram",
+   "id": "ig:https://www.instagram.com/reel/Dd4PXZLqfOc/",
+   "url": "https://www.instagram.com/reel/Dd4PXZLqfOc/",
+   "author": "blairetylergoesthere",
+   "caption": "adore this 3 pc set from cobasdaughter! Perfect fit for that holiday gift closet✨🍂\n\n#cobasdaughter #3pcgiftset #luxuryshowerroutine #womensgiftideas",
+   "ts": "2026-09-29T17:01:38+00:00",
+   "source": "ig-graph/tags",
+   "engagement": {
+    "likes": 2,
+    "comments": 1
+   }
+  },
+  "ig:https://www.instagram.com/reel/Dd39Ig8h8B8/": {
+   "platform": "instagram",
+   "id": "ig:https://www.instagram.com/reel/Dd39Ig8h8B8/",
+   "url": "https://www.instagram.com/reel/Dd39Ig8h8B8/",
+   "author": "unbridled_byjen",
+   "caption": "Tell me you’re a horse girl without telling me you’re a horse girl… 😂 Because why does my horse’s everything shower somehow have more steps than mine?\n\nBe honest, who gets the better self-care in your house: you or your horse? 👀\n\nAnd if you want to try CoBa’s Daughter for yourself, use JEN15 for 15% off 🤍 \n\n#CobasDaughterPartner #CobasDaughter",
+   "ts": "2026-09-29T14:22:29+00:00",
+   "source": "ig-graph/tags",
+   "engagement": {
+    "likes": 37,
+    "comments": 15
+   }
+  },
+  "ig:https://www.instagram.com/reel/Dd34-wSxNCI/": {
+   "platform": "instagram",
+   "id": "ig:https://www.instagram.com/reel/Dd34-wSxNCI/",
+   "url": "https://www.instagram.com/reel/Dd34-wSxNCI/",
+   "author": "itsabuckinggoodlife",
+   "caption": "Nothing hits quite like a post barn shower, and lately cobasdaughter has been making mine feel a little more luxurious ✨ Use code EM15 for 15% off or visit the link in my bio! #cobasdaughter #cobasdaughterpartner #equestrianlife #ad #horsegirls",
+   "ts": "2026-09-29T13:43:16+00:00",
+   "source": "ig-graph/tags",
+   "engagement": {
+    "likes": 20,
+    "comments": 0
+   }
+  },
+  "ig:https://www.instagram.com/reel/Dd4R82gpESc/": {
+   "platform": "instagram",
+   "id": "ig:https://www.instagram.com/reel/Dd4R82gpESc/",
+   "url": "https://www.instagram.com/reel/Dd4R82gpESc/",
+   "author": null,
+   "caption": "Smell like coconut all day with this aloe gel\n#cobasdaughter #bodycare #aloeveragel",
+   "ts": "2026-09-29T17:19:59+00:00",
+   "source": "ig-graph/#cobasdaughter",
+   "engagement": {
+    "likes": 0,
+    "comments": 0
+   }
+  },
+  "ig:https://www.instagram.com/reel/Dd4Q1jIJo0H/": {
+   "platform": "instagram",
+   "id": "ig:https://www.instagram.com/reel/Dd4Q1jIJo0H/",
+   "url": "https://www.instagram.com/reel/Dd4Q1jIJo0H/",
+   "author": null,
+   "caption": "Life changes, but my ritual stays the same\n#cobasdaughter #bodycare #aloeveragel #coffeescrub",
+   "ts": "2026-09-29T17:10:22+00:00",
+   "source": "ig-graph/#cobasdaughter",
+   "engagement": {
+    "likes": 7,
+    "comments": 0
+   }
   }
  }
 }
