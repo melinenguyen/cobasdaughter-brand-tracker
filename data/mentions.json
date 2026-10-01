@@ -1580,6 +1580,45 @@
     "likes": 7,
     "comments": 0
    }
+  },
+  "ig:https://www.instagram.com/reel/Dd8teAEMTyI/": {
+   "platform": "instagram",
+   "id": "ig:https://www.instagram.com/reel/Dd8teAEMTyI/",
+   "url": "https://www.instagram.com/reel/Dd8teAEMTyI/",
+   "author": "isabelnasser",
+   "caption": "Smell like a delicious coffee shop ☕️ my new favorite shower essential!!! cobasdaughter #cobasdaughter #bodyexfoliator #everythingshower",
+   "ts": "2026-10-01T10:41:43+00:00",
+   "source": "ig-graph/tags",
+   "engagement": {
+    "likes": null,
+    "comments": 0
+   }
+  },
+  "ig:https://www.instagram.com/reel/Dd6irf2gYZG/": {
+   "platform": "instagram",
+   "id": "ig:https://www.instagram.com/reel/Dd6irf2gYZG/",
+   "url": "https://www.instagram.com/reel/Dd6irf2gYZG/",
+   "author": "life_equestrian",
+   "caption": "From the barn to the shower 🤎 my reset ritual with cobasdaughter — Robusta Coffee Scrub to exfoliate, the 3-in-1 soap, and aloe gel to soothe. because barn dirt is real. refill, don't replace ✨ #ad \n\nMusic: 'Lucas Music Svoboda' by Lukas music, CC BY 3.0 (http://creativecommons.org/licenses/by/3.0/)\n#SelfCare #BeautyRitual #NaturalSkincare #CoffeeScrub #AloeVera #Exfoliation #EcoFriendly #WellnessJourney #BarnLife",
+   "ts": "2026-09-30T14:24:56+00:00",
+   "source": "ig-graph/tags",
+   "engagement": {
+    "likes": null,
+    "comments": 4
+   }
+  },
+  "ig:https://www.instagram.com/reel/Dd6yq6ep7-W/": {
+   "platform": "instagram",
+   "id": "ig:https://www.instagram.com/reel/Dd6yq6ep7-W/",
+   "url": "https://www.instagram.com/reel/Dd6yq6ep7-W/",
+   "author": null,
+   "caption": "Forever in love with pretty things \n#cobasdaughter #bodycare #aloeveragel #sunburnrelief",
+   "ts": "2026-09-30T16:44:47+00:00",
+   "source": "ig-graph/#cobasdaughter",
+   "engagement": {
+    "likes": 6,
+    "comments": 0
+   }
   }
  }
 }
