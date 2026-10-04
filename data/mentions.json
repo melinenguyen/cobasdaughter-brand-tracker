@@ -1775,6 +1775,110 @@
     "likes": 0,
     "comments": 0
    }
+  },
+  "ig:https://www.instagram.com/p/DeEVH2JDopq/": {
+   "platform": "instagram",
+   "id": "ig:https://www.instagram.com/p/DeEVH2JDopq/",
+   "url": "https://www.instagram.com/p/DeEVH2JDopq/",
+   "author": "whoisveronique",
+   "caption": "i CAN’T STOP showing you things i’m currently obsessed with, so here we are…💸 P.S. if you know something i’d love, please let me know! 🩵🙏🏻",
+   "ts": "2026-10-04T09:38:03+00:00",
+   "source": "ig-graph/tags",
+   "engagement": {
+    "likes": 470,
+    "comments": 3
+   }
+  },
+  "ig:https://www.instagram.com/reel/DeEMvy1JLZA/": {
+   "platform": "instagram",
+   "id": "ig:https://www.instagram.com/reel/DeEMvy1JLZA/",
+   "url": "https://www.instagram.com/reel/DeEMvy1JLZA/",
+   "author": null,
+   "caption": "Small gift, BIG smile. 🎁🤎\n\nOur Mini Gift Set is proof that the sweetest surprises can come in the smallest packages. ✨ Perfect for gifting—or keeping for yourself. #cobasdaughter #bodycare #miniset",
+   "ts": "2026-10-04T08:26:08+00:00",
+   "source": "ig-graph/#cobasdaughter",
+   "engagement": {
+    "likes": 2,
+    "comments": 0
+   }
+  },
+  "ig:https://www.instagram.com/reel/DeEMN4KJnFH/": {
+   "platform": "instagram",
+   "id": "ig:https://www.instagram.com/reel/DeEMN4KJnFH/",
+   "url": "https://www.instagram.com/reel/DeEMN4KJnFH/",
+   "author": null,
+   "caption": "Smell good all day starts in the shower. ☕🤎\n\nExfoliate with our Coffee Scrub for smooth, soft skin and that irresistible fresh-out-of-the-shower feeling that stays with you. ✨\n#cobasdaughter #coffeescrub #bodycare",
+   "ts": "2026-10-04T08:20:45+00:00",
+   "source": "ig-graph/#cobasdaughter",
+   "engagement": {
+    "likes": 3,
+    "comments": 0
+   }
+  },
+  "ig:https://www.instagram.com/reel/DeELytWp9ox/": {
+   "platform": "instagram",
+   "id": "ig:https://www.instagram.com/reel/DeELytWp9ox/",
+   "url": "https://www.instagram.com/reel/DeELytWp9ox/",
+   "author": null,
+   "caption": "It was never just about the sport. 🐎🤎\n\nIt’s about the connection, the trust, the quiet moments, and the feeling of being completely present. Some things horses teach you have nothing to do with riding.\n#cobasdaughter #bodycare #aloeveragel #coffeescrub #equestrian",
+   "ts": "2026-10-04T08:17:21+00:00",
+   "source": "ig-graph/#cobasdaughter",
+   "engagement": {
+    "likes": 18,
+    "comments": 0
+   }
+  },
+  "ig:https://www.instagram.com/reel/DeEKvcAJDeu/": {
+   "platform": "instagram",
+   "id": "ig:https://www.instagram.com/reel/DeEKvcAJDeu/",
+   "url": "https://www.instagram.com/reel/DeEKvcAJDeu/",
+   "author": null,
+   "caption": "The person who sent you this owes you this gift set. 🎁👀\n\nTag your victim. No excuses. 🤭\n#cobasdaughter #bodycare #aloeveragel #gifts #giftideas",
+   "ts": "2026-10-04T08:09:08+00:00",
+   "source": "ig-graph/#cobasdaughter",
+   "engagement": {
+    "likes": 3,
+    "comments": 0
+   }
+  },
+  "ig:https://www.instagram.com/reel/DeEImgup_UL/": {
+   "platform": "instagram",
+   "id": "ig:https://www.instagram.com/reel/DeEImgup_UL/",
+   "url": "https://www.instagram.com/reel/DeEImgup_UL/",
+   "author": null,
+   "caption": "Horses have a way of slowing the world down and bringing you back to yourself. \n#cobasdaughter #bodycare #aloeveragel #coffeescrub #horse",
+   "ts": "2026-10-04T07:49:40+00:00",
+   "source": "ig-graph/#cobasdaughter",
+   "engagement": {
+    "likes": 9,
+    "comments": 0
+   }
+  },
+  "ig:https://www.instagram.com/reel/DeEHF5-J-4H/": {
+   "platform": "instagram",
+   "id": "ig:https://www.instagram.com/reel/DeEHF5-J-4H/",
+   "url": "https://www.instagram.com/reel/DeEHF5-J-4H/",
+   "author": null,
+   "caption": "Coba’s Daughter brings the beauty of Vietnamese-inspired body care into your everyday routine — simple ingredients, intentional rituals, and skin that feels as good as it looks.\n#cobasdaughter #bodycare #aloeveragel #miniset",
+   "ts": "2026-10-04T07:36:53+00:00",
+   "source": "ig-graph/#cobasdaughter",
+   "engagement": {
+    "likes": 0,
+    "comments": 0
+   }
+  },
+  "ig:https://www.instagram.com/reel/DeEE8QTJnZB/": {
+   "platform": "instagram",
+   "id": "ig:https://www.instagram.com/reel/DeEE8QTJnZB/",
+   "url": "https://www.instagram.com/reel/DeEE8QTJnZB/",
+   "author": null,
+   "caption": "You just need to go back to your ritual\n#cobasdaughter #bodycare #aloeveragel #sunburnrelief",
+   "ts": "2026-10-04T07:17:54+00:00",
+   "source": "ig-graph/#cobasdaughter",
+   "engagement": {
+    "likes": 1,
+    "comments": 0
+   }
   }
  }
 }
