@@ -2009,6 +2009,32 @@
     "likes": 1,
     "comments": 0
    }
+  },
+  "ig:https://www.instagram.com/reel/DeH7QCQvHKi/": {
+   "platform": "instagram",
+   "id": "ig:https://www.instagram.com/reel/DeH7QCQvHKi/",
+   "url": "https://www.instagram.com/reel/DeH7QCQvHKi/",
+   "author": "yessyhrndzxo",
+   "caption": "When coffee meets luxury! Can’t wait to add it to my routine 🛁 The Robusta coffee scrub is designed to help smooth the look of underarms, KP bumps and strawberry legs 🪒💛 Can’t wait to give my skin a little more luvennnn 🥹  #skincare #exfoliatior #bodyscrub #showerroutine #skintreatment",
+   "ts": "2026-10-05T19:48:25+00:00",
+   "source": "ig-graph/tags",
+   "engagement": {
+    "likes": 31,
+    "comments": 0
+   }
+  },
+  "ig:https://www.instagram.com/p/DeIZBcDkq4v/": {
+   "platform": "instagram",
+   "id": "ig:https://www.instagram.com/p/DeIZBcDkq4v/",
+   "url": "https://www.instagram.com/p/DeIZBcDkq4v/",
+   "author": null,
+   "caption": "Loved and experienced by our followers, this cherished duo brings together two of our favorites. Discover it on our website and explore our Gift Guide, now live.\n\n#giftguide #cobasdaughter",
+   "ts": "2026-10-05T23:29:06+00:00",
+   "source": "ig-graph/#cobasdaughter",
+   "engagement": {
+    "likes": 28,
+    "comments": 11
+   }
   }
  }
 }
