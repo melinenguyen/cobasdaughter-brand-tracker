@@ -2477,6 +2477,19 @@
     "likes": null,
     "comments": 12
    }
+  },
+  "ig:https://www.instagram.com/p/DeVZOX6mmaG/": {
+   "platform": "instagram",
+   "id": "ig:https://www.instagram.com/p/DeVZOX6mmaG/",
+   "url": "https://www.instagram.com/p/DeVZOX6mmaG/",
+   "author": null,
+   "caption": "A thoughtful gift is felt in every detail. From the first impression to the familiar scents and little rituals that follow, it becomes more than something to unwrap. It becomes a moment to remember, a gesture of care, and a story worth sharing.\n\nDiscover the beauty of thoughtful giving with CoBa’s Daughter at cobasdaughter.com\n\n#giftideas #cobasdaughter",
+   "ts": "2026-10-11T00:40:59+00:00",
+   "source": "ig-graph/#cobasdaughter",
+   "engagement": {
+    "likes": null,
+    "comments": 7
+   }
   }
  }
 }
