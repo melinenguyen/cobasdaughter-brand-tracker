@@ -2490,6 +2490,32 @@
     "likes": null,
     "comments": 7
    }
+  },
+  "ig:https://www.instagram.com/p/DeZKsipDqwK/": {
+   "platform": "instagram",
+   "id": "ig:https://www.instagram.com/p/DeZKsipDqwK/",
+   "url": "https://www.instagram.com/p/DeZKsipDqwK/",
+   "author": null,
+   "caption": "Gifts for your new founder friend 🎀✨\n\nCelebrating her big dreams with thoughtful little luxuries, everyday essentials, and a little self-care along the way. The CoBa’s Daughter gift set is a lovely way to remind her to slow down, unwind, and take a moment for herself. 🤍\n\nSave this gift guide for the entrepreneur girlies in your life! 🎁\n\ncobasdaughter.official #cobasdaughter #giftguide #giftbasket #hostessgift",
+   "ts": "2026-10-12T11:51:00+00:00",
+   "source": "ig-graph/#cobasdaughter",
+   "engagement": {
+    "likes": 33,
+    "comments": 22
+   }
+  },
+  "ig:https://www.instagram.com/p/DeYA02YCXIX/": {
+   "platform": "instagram",
+   "id": "ig:https://www.instagram.com/p/DeYA02YCXIX/",
+   "url": "https://www.instagram.com/p/DeYA02YCXIX/",
+   "author": null,
+   "caption": "Every equestrian has a ritual they return to, in the stable and long after the ride 🐎A little care for the horse, a little care for yourself. A little luxury, woven into the rhythm of your days.\n\n#equestrian #horse #cobasdaughter",
+   "ts": "2026-10-12T01:05:30+00:00",
+   "source": "ig-graph/#cobasdaughter",
+   "engagement": {
+    "likes": null,
+    "comments": 15
+   }
   }
  }
 }
