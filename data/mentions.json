@@ -2516,6 +2516,19 @@
     "likes": null,
     "comments": 15
    }
+  },
+  "ig:https://www.instagram.com/p/DeanQmzmsyp/": {
+   "platform": "instagram",
+   "id": "ig:https://www.instagram.com/p/DeanQmzmsyp/",
+   "url": "https://www.instagram.com/p/DeanQmzmsyp/",
+   "author": null,
+   "caption": "Our best-selling Gift Set has sold out again on our website, but luckily, you can still find it on Amazon with a special offer. ✨\n\nMake gifting a little more thoughtful this season. Treat your friends, family, and even your favorite colleagues to the gift everyone loves.\n\nShop our bestseller on Amazon while it’s still available.\n\n#giftguide #giftideas #cobasdaughter",
+   "ts": "2026-10-13T01:19:50+00:00",
+   "source": "ig-graph/#cobasdaughter",
+   "engagement": {
+    "likes": null,
+    "comments": 7
+   }
   }
  }
 }
