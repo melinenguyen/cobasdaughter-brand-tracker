@@ -2703,6 +2703,49 @@
     "comments": 0,
     "shares": 0
    }
+  },
+  "ig:https://www.instagram.com/p/DeiYzk1GrfD/": {
+   "platform": "instagram",
+   "id": "ig:https://www.instagram.com/p/DeiYzk1GrfD/",
+   "url": "https://www.instagram.com/p/DeiYzk1GrfD/",
+   "author": null,
+   "caption": "Your body care routine doesn’t have to change with every season. \n\nKeep it simple with three essentials: cleanse, exfoliate, and hydrate. If you live in a particularly cold, dry climate, you may need an extra layer of moisture with a richer body cream to keep your skin feeling soft and comfortable. Adjust to your skin’s needs, and turn your everyday routine into a low-maintenance luxury ritual. Discover your body care essentials at cobasdaughter.com.\n\n#bodycare #seasonchange #cobasdaughter",
+   "ts": "2026-10-16T01:47:27+00:00",
+   "source": "ig-graph/#cobasdaughter",
+   "engagement": {
+    "likes": null,
+    "comments": 6
+   }
+  },
+  "tt:https://www.tiktok.com/@cobasdaughter.official/video/7691521920495275294": {
+   "platform": "tiktok",
+   "id": "tt:https://www.tiktok.com/@cobasdaughter.official/video/7691521920495275294",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7691521920495275294",
+   "author": "cobasdaughter.official",
+   "caption": "Coba’s Daughter x FitFest Miami 🌴✨\n\nAloe Gel in hand, Miami energy all around. 💚 From post-workout cool downs to keeping our skin feeling fresh and hydrated, Aloe Gel was our FitFest essential.\n\nWellness, movement, community, and a little Coba glow, that’s our kind of day. ☀️\n\nFitFest Miami, you were a vibe.\n#cobasdaughter #bodycare #aloeveragel #sunburnrelief #fitfestmiami",
+   "ts": "2026-10-02T19:03:00.000Z",
+   "source": "tt/hashtag",
+   "engagement": {
+    "views": 137,
+    "likes": 4,
+    "comments": 1,
+    "shares": 0
+   }
+  },
+  "tt:https://www.tiktok.com/@ugc.alana/video/7656829658381421855": {
+   "platform": "tiktok",
+   "id": "tt:https://www.tiktok.com/@ugc.alana/video/7656829658381421855",
+   "url": "https://www.tiktok.com/@ugc.alana/video/7656829658381421855",
+   "author": "ugc.alana",
+   "caption": "If your beauty event has all of us in white holding coconuts you've understood the vibe \n@CoBa's Daughter 🤍\n.\n.\n#cobasdaughter #creatorevent #beautycommunity #brandevent",
+   "ts": "2026-06-29T14:50:08.000Z",
+   "source": "tt/hashtag",
+   "engagement": {
+    "views": 349,
+    "likes": 10,
+    "comments": 0,
+    "shares": 0
+   }
   }
  }
 }
