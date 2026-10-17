@@ -2746,6 +2746,79 @@
     "comments": 0,
     "shares": 0
    }
+  },
+  "ig:https://www.instagram.com/reel/Dej2J6lxBRL/": {
+   "platform": "instagram",
+   "id": "ig:https://www.instagram.com/reel/Dej2J6lxBRL/",
+   "url": "https://www.instagram.com/reel/Dej2J6lxBRL/",
+   "author": null,
+   "caption": "Go follow cobasdaughter and click the link in my bio to shop this set for $36! #cobasdaughter #lifestyle #giftideas #aesop",
+   "ts": "2026-10-16T15:28:13+00:00",
+   "source": "ig-graph/#cobasdaughter",
+   "engagement": {
+    "likes": 6,
+    "comments": 0
+   }
+  },
+  "tt:https://www.tiktok.com/@ashgabrielle__/video/7697333232617966862": {
+   "platform": "tiktok",
+   "id": "tt:https://www.tiktok.com/@ashgabrielle__/video/7697333232617966862",
+   "url": "https://www.tiktok.com/@ashgabrielle__/video/7697333232617966862",
+   "author": "ashgabrielle__",
+   "caption": "Give the gift of luxury this holiday season 🧖🏻‍♀️✨ enjoy 15% off with code ASHLEY15 on @CoBa's Daughter gift sets #giftgiving #cobasdaughter #luxurybodycare #aestheticgifts ",
+   "ts": "2026-10-16T18:24:44.000Z",
+   "source": "tt/hashtag",
+   "engagement": {
+    "views": 105,
+    "likes": 2,
+    "comments": 2,
+    "shares": 1
+   }
+  },
+  "tt:https://www.tiktok.com/@ohana5783/video/7686896993079282957": {
+   "platform": "tiktok",
+   "id": "tt:https://www.tiktok.com/@ohana5783/video/7686896993079282957",
+   "url": "https://www.tiktok.com/@ohana5783/video/7686896993079282957",
+   "author": "ohana5783",
+   "caption": "#COBA'S DAUGHTER Robusta Coffee Body Scrub | Exfoliating Scrub for Smoother-Looking Skin, KP Bumps, Strawberry Legs & Underarms | Green Tea & Shea Butter | Vegan Beauty, 10.6 Oz.#COBA'S DAUGHTER Robusta Coffee Body Scrub | Exfoliating Scrub for Smoother-Looking Skin, KP Bumps, Strawberry Legs & Underarms | Green Tea & Shea Butter | Vegan Beauty, 10.6 Oz.",
+   "ts": "2026-09-18T15:26:31.000Z",
+   "source": "tt/hashtag",
+   "engagement": {
+    "views": 342,
+    "likes": 9,
+    "comments": 1,
+    "shares": 5
+   }
+  },
+  "tt:https://www.tiktok.com/@persianqueen2377/video/7686276081501998366": {
+   "platform": "tiktok",
+   "id": "tt:https://www.tiktok.com/@persianqueen2377/video/7686276081501998366",
+   "url": "https://www.tiktok.com/@persianqueen2377/video/7686276081501998366",
+   "author": "persianqueen2377",
+   "caption": "This is a highly effective body exfoliator from CÔBA’S Daughter. Made in Vietnam. It’s highly refreshing and hydrating exfoliating with the precise ratio of premium roasted coffee  , tea plant and shea butter. It leaves your skin soft and hydrated. @CoBa's Daughter US @CoBa's Daughter #exfoliation #coffee #skincare #coffeescrub #vietnameseskincare ",
+   "ts": "2026-09-16T23:16:56.000Z",
+   "source": "tt/hashtag",
+   "engagement": {
+    "views": 65,
+    "likes": 4,
+    "comments": 1,
+    "shares": 1
+   }
+  },
+  "tt:https://www.tiktok.com/@cobasdaughter.official/video/7654394065852648735": {
+   "platform": "tiktok",
+   "id": "tt:https://www.tiktok.com/@cobasdaughter.official/video/7654394065852648735",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7654394065852648735",
+   "author": "cobasdaughter.official",
+   "caption": "Still thinking about this day 🤍\n\nCoBa’s Daughter Grounding & Graceful Event \n#cobasdaughter #beautyevent #bodycare #meetthefounder ",
+   "ts": "2026-06-23T01:47:48.000Z",
+   "source": "tt/hashtag",
+   "engagement": {
+    "views": 117,
+    "likes": 3,
+    "comments": 0,
+    "shares": 0
+   }
   }
  }
 }
