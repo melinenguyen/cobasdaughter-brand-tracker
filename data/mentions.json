@@ -2819,6 +2819,94 @@
     "comments": 0,
     "shares": 0
    }
+  },
+  "ig:https://www.instagram.com/reel/Demi85Wyx4L/": {
+   "platform": "instagram",
+   "id": "ig:https://www.instagram.com/reel/Demi85Wyx4L/",
+   "url": "https://www.instagram.com/reel/Demi85Wyx4L/",
+   "author": null,
+   "caption": "Give the gift of luxury this holiday season 🧖🏻‍♀️✨ enjoy 15% off with code ASHLEY15 on cobasdaughter gift sets \n\n#giftgiving #cobasdaughter #luxurybodycare #aestheticgifts",
+   "ts": "2026-10-17T16:35:03+00:00",
+   "source": "ig-graph/#cobasdaughter",
+   "engagement": {
+    "likes": 1,
+    "comments": 0
+   }
+  },
+  "tt:https://www.tiktok.com/@taramillamena/video/7694101410077527326": {
+   "platform": "tiktok",
+   "id": "tt:https://www.tiktok.com/@taramillamena/video/7694101410077527326",
+   "url": "https://www.tiktok.com/@taramillamena/video/7694101410077527326",
+   "author": "taramillamena",
+   "caption": "A little exfoliate, nourish + hydrate moment ✨🤎 The CoBa’s Daughter MiniSet makes my self-care routine feel extra special—and it’s definitely going on my gift-giving list this season. 🎁 @CoBa's Daughter #CoBasDaughter #SelfCare #GiftIdeas #BodyCare",
+   "ts": "2026-10-08T01:23:10.000Z",
+   "source": "tt/hashtag",
+   "engagement": {
+    "views": 97,
+    "likes": 6,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  "tt:https://www.tiktok.com/@tuthaiha01/video/7553840822190361887": {
+   "platform": "tiktok",
+   "id": "tt:https://www.tiktok.com/@tuthaiha01/video/7553840822190361887",
+   "url": "https://www.tiktok.com/@tuthaiha01/video/7553840822190361887",
+   "author": "tuthaiha01",
+   "caption": "Một video toả hương thơm lun ạ 😂 Nhưng là 3 sản phẩm tắm tui thấy tâm đắc nhứt đến từ @CoBa's Daughter Ở Mỹ cũng bán mà Việt Nam cũng bán lun ạ, cả nhà đã thử chưa? 🌷",
+   "ts": "2025-09-25T02:00:35.000Z",
+   "source": "tt/hashtag",
+   "engagement": {
+    "views": 15500,
+    "likes": 607,
+    "comments": 46,
+    "shares": 15
+   }
+  },
+  "tt:https://www.tiktok.com/@molly_charanell/video/7682644139103587597": {
+   "platform": "tiktok",
+   "id": "tt:https://www.tiktok.com/@molly_charanell/video/7682644139103587597",
+   "url": "https://www.tiktok.com/@molly_charanell/video/7682644139103587597",
+   "author": "molly_charanell",
+   "caption": "A little everyday luxury for your skin 🤎\n\n@CoBa's Daughter #cobasdaughter #skincare #bodycare ",
+   "ts": "2026-09-07T04:23:26.000Z",
+   "source": "tt/hashtag",
+   "engagement": {
+    "views": 66500,
+    "likes": 21,
+    "comments": 1,
+    "shares": 4
+   }
+  },
+  "tt:https://www.tiktok.com/@taramillamena/video/7694379879080463646": {
+   "platform": "tiktok",
+   "id": "tt:https://www.tiktok.com/@taramillamena/video/7694379879080463646",
+   "url": "https://www.tiktok.com/@taramillamena/video/7694379879080463646",
+   "author": "taramillamena",
+   "caption": "You’ve been good this year and so have I! Loving the CoBa’s Daughter MiniSet for self care 🎁 @CoBa's Daughter #cobasdaughter #selfcare #giftideas",
+   "ts": "2026-10-08T19:24:03.000Z",
+   "source": "tt/hashtag",
+   "engagement": {
+    "views": 124,
+    "likes": 4,
+    "comments": 0,
+    "shares": 0
+   }
+  },
+  "tt:https://www.tiktok.com/@littlelifefiles/video/7691276533247364365": {
+   "platform": "tiktok",
+   "id": "tt:https://www.tiktok.com/@littlelifefiles/video/7691276533247364365",
+   "url": "https://www.tiktok.com/@littlelifefiles/video/7691276533247364365",
+   "author": "littlelifefiles",
+   "caption": "This gift set is so perfect! @CoBa's Daughter #cobasdaughter #giftset #skincareset #skincareroutine #skincsreproducts ",
+   "ts": "2026-09-30T10:41:19.000Z",
+   "source": "tt/hashtag",
+   "engagement": {
+    "views": 255,
+    "likes": 11,
+    "comments": 0,
+    "shares": 0
+   }
   }
  }
 }
