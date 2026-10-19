@@ -2907,6 +2907,77 @@
     "comments": 0,
     "shares": 0
    }
+  },
+  "ig:https://www.instagram.com/reel/DeqWGsVA0DV/": {
+   "platform": "instagram",
+   "id": "ig:https://www.instagram.com/reel/DeqWGsVA0DV/",
+   "url": "https://www.instagram.com/reel/DeqWGsVA0DV/",
+   "author": null,
+   "caption": "A little style moment with Coba’s Daughter 🤍✨ Effortless, feminine, and so easy to wear — exactly the kind of pieces I love adding to my wardrobe.\n\n#CobasDaughter #FashionFinds #EverydayStyle #EffortlessStyle #FeminineStyle OutfitInspo OOTD StyleInspo WardrobeFavorites EverydayFashion LifestyleCreator FashionReels ChicStyle WhatIWore",
+   "ts": "2026-10-19T03:59:15+00:00",
+   "source": "ig-graph/#cobasdaughter",
+   "engagement": {
+    "likes": null,
+    "comments": 1
+   }
+  },
+  "ig:https://www.instagram.com/reel/DepoEZnyA4Q/": {
+   "platform": "instagram",
+   "id": "ig:https://www.instagram.com/reel/DepoEZnyA4Q/",
+   "url": "https://www.instagram.com/reel/DepoEZnyA4Q/",
+   "author": null,
+   "caption": "Holiday Gift Guide made easy with cobasdaughter use code ASHLEY15 for 15% off \n\n#cobasdaughter #luxurybodycare #aestheticgifts #giftguide",
+   "ts": "2026-10-18T21:16:55+00:00",
+   "source": "ig-graph/#cobasdaughter",
+   "engagement": {
+    "likes": 0,
+    "comments": 0
+   }
+  },
+  "tt:https://www.tiktok.com/@mrsbowden/video/7654663648232721695": {
+   "platform": "tiktok",
+   "id": "tt:https://www.tiktok.com/@mrsbowden/video/7654663648232721695",
+   "url": "https://www.tiktok.com/@mrsbowden/video/7654663648232721695",
+   "author": "mrsbowden",
+   "caption": "Unboxing CoBa’s Daughter 🤍 Low maintenance luxury is exactly what my body needs while recovering from surgery. Slow mornings, intentional rituals, and self care that feels effortless. Glad I was able to purchase this through @Try Your Best @CoBa's Daughter @CoBa's Daughter US LINK IN BIO\n\n#cobasdaughter #skincare #selfcare #postop #cleanbeauty",
+   "ts": "2026-06-23T18:44:47.000Z",
+   "source": "tt/hashtag",
+   "engagement": {
+    "views": 475,
+    "likes": 134,
+    "comments": 5,
+    "shares": 5
+   }
+  },
+  "tt:https://www.tiktok.com/@cobasdaughter.official/video/7529606917518396702": {
+   "platform": "tiktok",
+   "id": "tt:https://www.tiktok.com/@cobasdaughter.official/video/7529606917518396702",
+   "url": "https://www.tiktok.com/@cobasdaughter.official/video/7529606917518396702",
+   "author": "cobasdaughter.official",
+   "caption": "Replying to @Crystal ✨🎀\n\nOne spray for an instant boost. One pump goes a long way ✨ Treat your hair just right with our Hair Care Duo 🤍\n\n#fyp #cobasdaughter #hairoil #hairspray #haircare #hairtok #blonde #blondehair ",
+   "ts": "2025-07-21T18:40:50.000Z",
+   "source": "tt/hashtag",
+   "engagement": {
+    "views": 13400,
+    "likes": 234,
+    "comments": 2,
+    "shares": 4
+   }
+  },
+  "tt:https://www.tiktok.com/@missmarissaaa/video/7605011878875598093": {
+   "platform": "tiktok",
+   "id": "tt:https://www.tiktok.com/@missmarissaaa/video/7605011878875598093",
+   "url": "https://www.tiktok.com/@missmarissaaa/video/7605011878875598093",
+   "author": "missmarissaaa",
+   "caption": "Start using coffee ☕️ grounds as a body exfoliant ✅ firms, brightens, leaves your skin feeling sooo smooth & it smells amazing!😍 \n\n#cobasdaughter #coffeescrub #skincare #cobasdaughtercoffeescrub #bodycare ",
+   "ts": "2026-02-09T23:30:45.000Z",
+   "source": "tt/hashtag",
+   "engagement": {
+    "views": 19000,
+    "likes": 110,
+    "comments": 2,
+    "shares": 24
+   }
   }
  }
 }
